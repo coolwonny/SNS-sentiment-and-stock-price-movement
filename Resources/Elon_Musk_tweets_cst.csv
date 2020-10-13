@@ -1,0 +1,905 @@
+date,text,Subjectivity,Polarity,Analysis
+2020-08-16 03:42:01+00:00,we must pass the great filter,0.75,0.8,Positive
+2020-10-09 15:00:00+00:00,the future of cars can and will be electric if the entire industry starts making and marketing compelling evs for everyone. and thats a future consumers are getting a glimpse of today. cr's david friedman (via ) cleanercars,0.36875,0.075,Positive
+2020-10-08 09:36:14+00:00,"we put the 2020  model y long range electric suv on our test track to find out what it can doand it turns out, well, quite a lot.",0.4,-0.05,Negative
+2020-10-07 17:47:59+00:00,"starman, last seen leaving earth, made its first close approach with mars todaywithin 0.05 astronomical units, or under 5 million miles, of the red planet",0.13333333333333333,0.08333333333333333,Positive
+2020-10-06 07:33:30+00:00,deployment of 60 starlink satellites confirmed,1.0,0.4,Positive
+2020-10-06 06:44:54+00:00,4th flight & landing for this booster,0.0,0.0,Neutral
+2020-10-06 06:24:42+00:00,5 minutes from launch. looks good so far.,0.8,0.39999999999999997,Positive
+2020-10-05 18:42:20+00:00,turn volume to 11 & play powerglide in your tesla,0.0,0.0,Neutral
+2020-10-05 18:22:49+00:00,"music volume on a tesla goes to 11, because its louder than 10",0.0,0.0,Neutral
+2020-10-05 17:38:33+00:00,rewatched young frankenstein this weekend. still awesome. ovaltine?,0.7,0.55,Positive
+2020-10-05 17:21:07+00:00,"hollywood should just start with the sequel & skip the original, because financials",0.75,0.375,Positive
+2020-10-04 09:23:38+00:00,new spacex droneship will be called a shortfall of gravitas,0.45454545454545453,0.13636363636363635,Positive
+2020-10-04 09:05:42+00:00,"nothing can escape gravity, not even black holes (and they really tried!)",0.31666666666666665,0.04166666666666667,Positive
+2020-10-03 19:12:06+00:00,"call of booty, great game",0.575,0.2,Positive
+2020-09-29 10:21:49+00:00,"once this dragon docks to the  there will be two dragons docked simultaneously. between crew and cargo missions, there will be at least one dragon spacecraft attached to the  for the entirety of 2021",0.4,-0.3,Negative
+2020-09-29 11:52:58+00:00,"spacex training of astronauts that will fly on board dragons first operational mission is complete! when the crew arrives for pre-launch preparations at the launch site, they will participate in a run-through of day-of-launch activities with the launch and pad operations teams",0.5444444444444444,0.39166666666666666,Positive
+2020-09-29 10:21:14+00:00,"after launch of crew dragons first operational mission with astronauts on board, spacex will launch its 21st cargo resupply mission to the iss  the first to use the upgraded version of dragon outfitted for cargo missions",0.2222222222222222,0.16666666666666666,Positive
+2020-09-28 19:00:24+00:00,"news: were now targeting 2:40am et saturday, oct. 31, for the launch of the  and  crew-1 mission to send astronauts to the  here is the latest launchamerica update: ",0.9,0.5,Positive
+2020-09-26 14:44:56+00:00,"thanks tesla team for great work on deliveries! for new owners, we super appreciate accommodating us on delivery timing! definitely one of our toughest quarters in global logistics.",0.42853535353535355,0.29217171717171714,Positive
+2020-09-26 12:41:21+00:00,"first flight is to 15km or ~50,000 ft",0.3333333333333333,0.25,Positive
+2020-09-26 12:38:09+00:00,nosecone & front flaps next week. sn9 next month.,0.0,0.0,Neutral
+2020-09-26 12:36:31+00:00,starship sn8 with rear body flaps,0.0,0.0,Neutral
+2020-09-25 16:25:41+00:00,"falcon 9 will launch s super cool interstellar mapping and acceleration probe (imap), which will help researchers better understand the boundary of the heliosphere, a magnetic barrier surrounding our solar system  ",0.6055555555555555,0.39444444444444443,Positive
+2020-09-24 21:24:52+00:00,rvac and sea level raptor with a human for scale,0.1,0.0,Neutral
+2020-09-24 11:57:39+00:00,only thing beyond ludicrous is plaid,1.0,0.0,Neutral
+2020-09-22 19:28:04+00:00,"cybertruck, atv, roadster & semi
+c a r s",0.0,0.0,Neutral
+2020-09-22 11:00:15+00:00,we drove a model s long range plus for 422.7 miles in california and believe we could have made it to 430.  explained how theyre killing it on range: ,0.4,-0.05,Negative
+2020-09-22 00:56:48+00:00,"the extreme difficulty of scaling production of new technology is not well understood. its 1000% to 10,000% harder than making a few prototypes. the machine that makes the machine is vastly harder than the machine itself.",0.3109090909090909,-0.07772727272727273,Negative
+2020-09-21 16:00:46+00:00,"we intend to increase, not reduce battery cell purchases from panasonic, lg & catl (possibly other partners too). however, even with our cell suppliers going at maximum speed, we still foresee significant shortages in 2022 & beyond unless we also take action ourselves.",0.45,0.11666666666666665,Positive
+2020-09-21 15:56:52+00:00,"important note about tesla battery day unveil tomorrow. this affects long-term production, especially semi, cybertruck & roadster, but what we announce will not reach serious high-volume production until 2022.",0.8888888888888888,0.022222222222222237,Positive
+2020-09-19 12:19:33+00:00,"a prior track record of exceptional achievement in engineering *is* required, but *no* prior experience working on the brain or human physiology is required. we will teach you whats known about the brain, which is not much tbh.",0.26,0.11333333333333333,Positive
+2020-09-19 12:08:00+00:00,"if you feel neuralink might have incorrectly overlooked your resume or declined to  make an offer, please lmk in comment below",0.0,0.0,Neutral
+2020-09-18 11:22:25+00:00,of course i still love you,0.6,0.5,Positive
+2020-09-17 02:15:03+00:00,speedrunning factorio in real life ,0.30000000000000004,0.2,Positive
+2020-09-16 15:18:25+00:00,fallout shelter is on your tesla. tap the entertainment button.,0.0,0.0,Neutral
+2020-09-16 14:39:43+00:00, fallout radio  ,0.0,0.0,Neutral
+2020-09-16 14:19:13+00:00,doubles as an underground nuclear shelter ,0.0,0.0,Neutral
+2020-09-15 16:13:39+00:00,story of my life,0.0,0.0,Neutral
+2020-09-15 15:29:38+00:00,"tunnels under cities with self-driving electric cars will feel like warp drive
+
+first operational tunnel under vegas almost done
+
+the ",0.3333333333333333,0.25,Positive
+2020-09-15 15:14:00+00:00,have you hugged a tunnel today?,0.0,0.0,Neutral
+2020-09-12 12:40:23+00:00,"one way or another, excitement guaranteed! support of greater boca, padre, brownsville community is very much appreciated.",0.3,0.35,Positive
+2020-09-12 12:37:36+00:00,"sn8 starship with flaps & nosecone should be done in about a week. then static fire, checkouts, static fire, fly to 60,000 ft & back.",0.675,0.45,Positive
+2020-09-11 10:45:06+00:00,many exciting things will be unveiled on battery day 9/22 ,0.65,0.4,Positive
+2020-09-10 16:49:27+00:00,"tesla giga berlin has capacity for 40k employees in 3 shifts, says minster steinbach
+
+",0.0,0.0,Neutral
+2020-09-15 15:29:38+00:00,"tunnels under cities with self-driving electric cars will feel like warp drive
+
+first operational tunnel under vegas almost done
+
+the ",0.3333333333333333,0.25,Positive
+2020-09-15 15:14:00+00:00,have you hugged a tunnel today?,0.0,0.0,Neutral
+2020-09-12 12:40:23+00:00,"one way or another, excitement guaranteed! support of greater boca, padre, brownsville community is very much appreciated.",0.3,0.35,Positive
+2020-09-12 12:37:36+00:00,"sn8 starship with flaps & nosecone should be done in about a week. then static fire, checkouts, static fire, fly to 60,000 ft & back.",0.675,0.45,Positive
+2020-09-11 10:45:06+00:00,many exciting things will be unveiled on battery day 9/22 ,0.65,0.4,Positive
+2020-09-10 16:49:27+00:00,"tesla giga berlin has capacity for 40k employees in 3 shifts, says minster steinbach
+
+",0.0,0.0,Neutral
+2020-09-09 16:09:06+00:00,tesla model s & x have hospital-grade (hepa) air filters. 3 & y are really good too. this has a big effect on health.,0.35000000000000003,0.35,Positive
+2020-09-09 05:00:56+00:00,tesla energy ramps hiring at giga new york for accelerated solar production,0.45454545454545453,0.13636363636363635,Positive
+2020-09-09 09:57:46+00:00,onboard camera view of falcon 9s saocom 1b launch and first stage land landing,0.3333333333333333,0.25,Positive
+2020-09-07 17:46:50+00:00,"if you bombard earth with enough photons, eventually it emits a tesla (ak)",0.5,0.0,Neutral
+2020-09-04 19:17:35+00:00,"the first raptor vacuum engine (rvac) for starship has shipped from spacexs rocket factory in hawthorne, california to our development facility in mcgregor, texas",0.16666666666666666,0.12083333333333333,Positive
+2020-09-04 00:41:19+00:00,model 3 rated as most reliable car,0.5,0.5,Positive
+2020-09-04 00:02:34+00:00,turns out you can make anything fly haha,0.6,0.5,Positive
+2020-09-03 17:04:40+00:00,great trip to germany. support from government & people is super appreciated!,0.5055555555555555,0.4611111111111111,Positive
+2020-09-03 08:02:45+00:00,deployment of 60 starlink satellites confirmed,1.0,0.4,Positive
+2020-09-03 07:46:56+00:00,liftoff!,0.0,0.0,Neutral
+2020-08-31 11:27:57+00:00,falcon 9 first stage lands at landing zone 1 to complete this boosters fourth flight,0.24444444444444446,0.11666666666666665,Positive
+2020-08-30 21:51:55+00:00,"after launching saocom 1b and two rideshare payloads to orbit, falcon 9s first stage returns to earth and lands at landing zone 1  completing spacexs first polar orbit mission from florida",0.3055555555555555,0.1388888888888889,Positive
+2020-08-30 18:34:06+00:00,deployment of saocom 1b confirmed,1.0,0.4,Positive
+2020-08-30 18:29:08+00:00,falcon 9s first stage has landed at landing zone 1,0.3333333333333333,0.25,Positive
+2020-08-30 18:20:08+00:00,liftoff!,0.0,0.0,Neutral
+2020-08-30 17:07:02+00:00,snout boops,0.0,0.0,Neutral
+2020-08-30 11:00:31+00:00,just learned that my physics prof from penn is head of fermilab & still has some of my old homework ,0.2,0.1,Positive
+2020-08-28 20:02:05+00:00,conceptual telepathy,0.0,0.0,Neutral
+2020-08-28 18:50:53+00:00,"if you ever fantasize about having been an 1880s engineer working in edisons lab, apply to work at .",0.0,0.0,Neutral
+2020-08-28 17:32:20+00:00,ahem  starting soon,0.1,0.0,Neutral
+2020-08-28 14:37:40+00:00,"all of physics is either impossible or trivial. it is impossible until you understand it, and then it becomes trivial. e rutherford",1.0,-0.6666666666666666,Negative
+2020-08-28 14:05:17+00:00,neuralink product demo in 3 hours. webcast at ,0.0,0.0,Neutral
+2020-08-27 00:42:01+00:00,"the big bang started very, very sml ",0.245,0.13,Positive
+2020-08-26 23:37:06+00:00,should we believe things proportionate to the evidence that they are true? (yes),0.65,0.35,Positive
+2020-08-26 22:39:50+00:00,olde skoole analog synthesizer from ancient britain,0.0,0.0,Neutral
+2020-08-26 00:39:46+00:00,lengthy background on neuralink by ,0.0,0.0,Neutral
+2020-08-26 00:35:58+00:00,"live webcast of working  device
+friday 3pm pacific",0.5,0.13636363636363635,Positive
+2020-08-21 16:01:25+00:00,"tesla model 3 is most satisfying car across all ages, study reveals ",0.75,0.5,Positive
+2020-08-21 10:27:45+00:00,a metaphor for life,0.0,0.0,Neutral
+2020-08-20 14:11:02+00:00,more fun games coming soon to ur tesla,0.35,0.4,Positive
+2020-08-20 14:09:35+00:00, strikes again!,0.0,0.0,Neutral
+2020-08-20 03:17:54+00:00,new tesla feature coming that enables your car to play snake jazz or polynesian elevator music through its outside speakers wherever you go,0.25227272727272726,0.06818181818181818,Positive
+2020-08-20 00:11:06+00:00,gpt-3 sounds like simon & garfunkel lyrics,0.0,0.0,Neutral
+2020-08-19 21:38:56+00:00,bureaucracy is inherently kafkaesque,0.0,0.0,Neutral
+2020-08-19 14:55:21+00:00,medical check is a-ok!,0.0,0.0,Neutral
+2020-08-19 14:47:48+00:00,he might run for president in 2024,0.0,0.0,Neutral
+2020-08-19 01:01:47+00:00,elevator music is underrated,0.0,0.0,Neutral
+2020-08-18 17:14:35+00:00,"big updates in  
+
+ trans-canada supercharging  
+ model y deliveries  
+ leasing for model y & model 3 ",0.1,0.0,Neutral
+2020-08-18 17:17:46+00:00,"aloha, welcome back from space ",0.45,0.4,Positive
+2020-08-18 16:38:33+00:00,fairing chute control & ship control are closing the loop locally. both operating on (spacex) autopilot.,0.0,0.0,Neutral
+2020-08-18 16:36:31+00:00,ms tree catches fairing in her net,0.0,0.0,Neutral
+2020-08-18 09:40:56+00:00,falcon 9s first stage has landed on the of course i still love you droneship  first time a booster has completed six flights!,0.4222222222222222,0.3541666666666667,Positive
+2020-08-17 18:00:50+00:00,raptor engine just reached 330 bar chamber pressure without exploding!,0.0,0.0,Neutral
+2020-08-16 23:05:05+00:00,cybertruck option package,0.0,0.0,Neutral
+2020-08-16 21:01:58+00:00,tanks 4 the memery - panzer of the lake,0.0,0.0,Neutral
+2020-08-16 03:57:26+00:00,history is written by the victors  except on wikipedia haha,0.3,0.2,Positive
+2020-08-16 02:38:57+00:00,sounds right,0.5357142857142857,0.2857142857142857,Positive
+2020-08-15 19:18:31+00:00,a truly useful exaflop at de facto fp32,0.0,0.3,Positive
+2020-08-15 17:11:49+00:00,two million californians go dark and the heat is just beginning - its super hot and time to get tesla solar and a battery pack. cant rely on pgande for power... $tsla   ,0.638888888888889,0.14444444444444446,Positive
+2020-08-15 14:17:50+00:00,"our main engineering locations are palo alto, austin & seattle, but working remotely is acceptable for exceptional candidates",0.5111111111111111,0.24444444444444444,Positive
+2020-08-14 17:40:49+00:00,great mission patch design!,0.75,1.0,Positive
+2020-08-14 15:33:15+00:00,tesla is developing a nn training computer called dojo to process truly vast amounts of video data. its a beast! please consider joining our ai or computer/chip teams if this sounds interesting.,0.75,0.25,Positive
+2020-08-14 13:20:09+00:00,"news:  &  are targeting no earlier than oct. 23 for crew dragons first operational mission to the  with  , shannon walker and  pending certification following a successful demo-2 test flight. ",0.4708333333333333,0.25,Positive
+2020-08-11 13:17:07+00:00,sn7 will be new alloy test tank taken to burst pressure. sn8 will have body flaps & nosecone.,0.45454545454545453,0.13636363636363635,Positive
+2020-08-11 13:15:25+00:00,sn 5 & 6 at starship production complex in texas,0.4,-0.3,Negative
+2020-08-08 17:11:43+00:00,spot the tiny humans!!! this shot really puts it into scale!!! a full blown starship and superheavy will be hard to fathom!!!!,0.44791666666666663,0.0071370442708332815,Positive
+2020-08-07 16:01:07+00:00,"videos like this will always amaze me...
+
+astronomer jan koet captured this video in 2007 of saturn appearing behind the moon. nothing like seeing the movement of planetary bodies through space to remind us that we're living in a solar *system*
+
+source: ",0.7,-0.4,Negative
+2020-08-07 12:12:08+00:00,good piece on giga berlin construction,0.6000000000000001,0.7,Positive
+2020-08-07 00:21:49+00:00,falcon 9s first stage has landed on the of course i still love you droneship,0.4666666666666667,0.375,Positive
+2020-08-05 19:58:38+00:00,looking up in model y,0.0,0.0,Neutral
+2020-08-02 15:52:04+00:00,"live: an update on today's  dragon endeavour splashdown, returning  &  home to earth. hear from  and experts about this milestone in human spaceflight: ",0.3,0.06818181818181818,Positive
+2020-08-02 15:27:47+00:00,update: post-spacex crew dragon dm-2 splashdown news conference no earlier than 4:45pm et. watch live: ,0.5,0.06818181818181818,Positive
+2020-08-02 15:27:25+00:00,congratulations  &  on completing first crewed dragon flight!!  returned.,0.3333333333333333,0.390625,Positive
+2020-08-01 16:16:14+00:00,webcast of crew dragons return to earth from the  with  and   ,0.0,0.0,Neutral
+2020-08-02 13:49:42+00:00,"good splashdown of dragon confirmed! welcome back to earth,  and ",0.625,0.5,Positive
+2020-08-02 13:51:04+00:00,dragon is stable in the water,0.0,0.0,Neutral
+2020-08-02 13:37:24+00:00,acquisition of signal expected in 5 mins,0.4,-0.1,Negative
+2020-08-02 13:31:53+00:00,4 mins to dragon loss of signal due to atmospheric entry plasma,0.1875,-0.0625,Negative
+2020-08-02 13:11:01+00:00,dragon will travel from south of new zealand to florida in ~37 minutes,0.45454545454545453,0.13636363636363635,Positive
+2020-08-02 12:19:04+00:00,coming in hot,0.8500000000000001,0.25,Positive
+2020-08-02 11:55:30+00:00,astronauts land in 2 hours  ,0.0,0.0,Neutral
+2020-08-02 10:51:40+00:00,"crew dragons flight back to earth with  and  remains on track; targeting splashdown off the coast of pensacola, florida in the gulf of mexico at 2:48 p.m. edt today ",0.0,0.0,Neutral
+2020-08-01 21:05:25+00:00,". &  will spend one more night in space prior to returning to their homeland, earth.
+
+while asleep, a six-minute departure phasing burn at 1:48 a.m. et, aug. 2 will set the spacecraft on the orbital path to a planned splashdown off the coast of pensacola.",0.25,0.25,Positive
+2020-08-01 18:47:33+00:00,"the view from inside the  dragon endeavour, as  &  monitor their departure from ",0.0,0.0,Neutral
+2020-08-01 18:37:13+00:00,separation confirmed. dragon performing 4 departure burns to move away from the ,1.0,0.4,Positive
+2020-08-01 12:52:02+00:00,"crew dragon will depart the  with  and  in about 6 hours and splash down off the coast of florida in the gulf of mexico at 2:41 p.m. edt on sunday, august 2. demo-2 return webcast begins today at ~5:15 p.m. edt  ",0.2888888888888889,-0.15555555555555559,Negative
+2020-08-01 01:32:26+00:00,"tesla autopilot accidents: 1 out of 4,530,000 miles; us average: 1 out of 479,000miles",0.39999999999999997,-0.15,Negative
+2020-08-01 01:47:18+00:00,"engineering graduates rank tesla & spacex as the top 2 favorite employers
+
+""engineering is true magic"" by  (dec 2018)
+
+",0.8099999999999999,0.20999999999999996,Positive
+2020-07-31 22:51:54+00:00,this bbc article provides a sensible summary for how it was done ,0.0,0.0,Neutral
+2020-07-31 20:13:37+00:00,news: teams from  and  remain go with plans to bring  and  home to earth on sunday afternoon. we will continue to monitor weather before undocking saturday night. read more: ,0.5,0.5,Positive
+2020-07-31 18:36:22+00:00,"they're coming home! 
+
+on aug. 1, astronauts  and  will depart the  on 's crew dragon spacecraft after a more than 60-day stay in space. take a look at this recap of their launchamerica mission: ",0.5,0.5,Positive
+2020-07-31 09:54:07+00:00,"the great pyramid was the tallest structure made by humans for 3800 years. three thousand, eight hundred years.  ",0.75,0.8,Positive
+2020-07-30 21:15:17+00:00, and  remain go with plans to bring  and  home to earth this weekend. teams will continue to monitor weather before undocking saturday night. read more: ,0.5,0.5,Positive
+2020-07-30 23:17:16+00:00,ramses ii was ,0.0,0.0,Neutral
+2020-07-30 23:14:32+00:00,aliens built the pyramids obv,0.0,0.0,Neutral
+2020-07-30 15:05:05+00:00,starship sn5 just completed full duration static fire. 150m hop soon.,0.7250000000000001,0.425,Positive
+2020-07-30 14:52:29+00:00,total eclipse of the heart ,0.75,0.0,Neutral
+2020-07-30 03:54:55+00:00,but sometimes when we touch ,0.0,0.0,Neutral
+2020-07-30 03:19:44+00:00,losing it,0.0,0.0,Neutral
+2020-07-30 02:53:58+00:00,"sure could use a good rave
+whats your favorite techno",0.8296296296296296,0.5666666666666667,Positive
+2020-07-30 02:12:22+00:00,i  i just died in your arms tonight,0.0,0.0,Neutral
+2020-07-30 01:55:03+00:00,the rumor that bill gates & i are lovers is completely untrue,0.4,0.1,Positive
+2020-07-27 13:32:18+00:00,the left is losing the middle,0.0,0.0,Neutral
+2020-07-27 12:05:14+00:00,hold my beer,0.0,0.0,Neutral
+2020-07-26 23:50:26+00:00,"pick up the energetic wallpapers, and charge your everyday adventure",0.55,0.15,Positive
+2020-07-26 22:40:56+00:00,almost a decade ago. original dragon in background.,0.75,0.375,Positive
+2020-07-26 23:50:26+00:00,"pick up the energetic wallpapers, and charge your everyday adventure",0.55,0.15,Positive
+2020-07-26 22:40:56+00:00,almost a decade ago. original dragon in background.,0.75,0.375,Positive
+2020-07-26 21:41:32+00:00,great song,0.75,0.8,Positive
+2020-07-24 20:10:12+00:00,"new video - why tesla model y is their most important car! [auto focus ep 5]
+
+",0.6515151515151515,0.37878787878787873,Positive
+2020-07-25 16:40:42+00:00,cool model 3 review by ,0.65,0.35,Positive
+2020-07-24 22:42:29+00:00,pronouns suck,0.0,0.0,Neutral
+2020-07-24 17:31:07+00:00,i bet no one on  twitter even *has* a guillotine! poseurs ,0.0,0.0,Neutral
+2020-07-24 11:21:01+00:00, twitter sucks,0.3,-0.3,Negative
+2020-07-24 10:01:39+00:00,"these are jammed to gills with special interests earmarks. if we do a stimulus at all, it should just be direct payments to consumers.",0.5238095238095237,0.11904761904761903,Positive
+2020-07-24 09:53:54+00:00,"goal of government should be to maximize the happiness of the people. giving each person money allows them to decide what meets their needs, rather than the blunt tool of legislation, which creates self-serving special interests.",0.3857142857142857,0.5285714285714286,Positive
+2020-07-24 09:50:53+00:00,"as a reminder, im in *favor* of universal basic income",0.0625,0.0,Neutral
+2020-07-24 09:44:46+00:00,another government stimulus package is not in the best interests of the people imo,0.3,1.0,Positive
+2020-07-23 07:21:38+00:00,"while in orbit, astronauts  and  performed a habitability assessment of the  crew dragon. this included:
+
+ opening and closing the hatch
+ operating the waste system
+ moving cargo back into the vehicle
+
+: ",0.0,-0.1,Negative
+2020-07-23 02:59:54+00:00,impressive tianwen-1 mars rover mission launched by china today ,1.0,1.0,Positive
+2020-07-22 01:53:20+00:00,"you dont have a soul, you are a soul",0.0,0.0,Neutral
+2020-07-22 01:42:32+00:00,2 minutes later ,0.0,0.0,Neutral
+2020-07-22 01:10:48+00:00,coming soon,0.0,0.0,Neutral
+2020-07-22 01:42:32+00:00,2 minutes later ,0.0,0.0,Neutral
+2020-07-22 01:10:48+00:00,coming soon,0.0,0.0,Neutral
+2020-07-22 00:45:35+00:00,where are the memes? send in  the memes ,0.0,0.0,Neutral
+2020-07-22 00:40:32+00:00,nothing has gaslit more people than the movie gaslight,0.5,0.5,Positive
+2020-07-21 12:46:31+00:00,videos of yesterdays catch of both fairing halves,0.0,0.0,Neutral
+2020-07-20 16:18:38+00:00,watch falcon 9 launch anasis-ii  ,0.0,0.0,Neutral
+2020-07-20 17:19:33+00:00,both fairing halves caught from space by  ships!,0.0,0.0,Neutral
+2020-07-20 16:39:14+00:00,falcon 9s first stage has landed on the just read the instructions droneship,0.3333333333333333,0.25,Positive
+2020-07-20 16:11:56+00:00,launch in 20 mins,0.0,0.0,Neutral
+2020-07-17 08:15:56+00:00,"tesla's model 3 received top marks from safety organizations in north america, europe, and australia",0.5,0.5,Positive
+2020-07-18 19:11:35+00:00,this would solve a lot of brain/spine injuries & is ultimately essential for ai symbiosis,0.3,0.0,Neutral
+2020-07-18 17:44:46+00:00,"targeting monday, july 20 for falcon 9 launch of anasis-ii from slc-40",0.0,0.0,Neutral
+2020-07-17 21:03:56+00:00,"solving high-volume, high-reliability, low-cost production problems is especially valued",1.0,0.0,Neutral
+2020-07-17 20:59:21+00:00,"if youve solved hard problems with phones / wearables (sealing, signal processing, inductive charging, power mgmt, etc), please consider working at engineering.com",0.5416666666666666,-0.2916666666666667,Negative
+2020-07-17 19:58:55+00:00,its inevitable,1.0,0.0,Neutral
+2020-07-17 19:52:19+00:00,will those who write the algorithms ever realize their negativity bias?,0.0,0.0,Neutral
+2020-07-17 19:02:23+00:00,thanks,0.2,0.2,Positive
+2020-07-17 19:58:55+00:00,its inevitable,1.0,0.0,Neutral
+2020-07-17 19:52:19+00:00,will those who write the algorithms ever realize their negativity bias?,0.0,0.0,Neutral
+2020-07-17 19:02:23+00:00,thanks,0.2,0.2,Positive
+2020-07-17 18:18:15+00:00,just stop,0.0,0.0,Neutral
+2020-07-10 04:31:35+00:00,"wow, ihop & github are close",1.0,0.1,Positive
+2020-07-10 04:26:26+00:00,best use of the term full stack?,0.42500000000000004,0.675,Positive
+2020-07-09 23:25:45+00:00,ai symbiosis while u wait,0.0,0.0,Neutral
+2020-07-09 02:08:51+00:00,progress update august 28,0.0,0.0,Neutral
+2020-07-09 02:01:44+00:00,"if you cant beat em, join em
+neuralink mission statement",0.0,0.0,Neutral
+2020-07-06 12:44:18+00:00,falcon 9 lands on just read the instructions after delivering gps iii space vehicle 03 to orbit for the ,0.0,0.0,Neutral
+2020-07-05 15:33:10+00:00,read the story of civilization by will & ariel durant,0.0,0.0,Neutral
+2020-07-05 15:04:27+00:00,"dang, we broke the website",0.0,0.0,Neutral
+2020-07-05 15:02:44+00:00,only $69.420!!,1.0,0.0,Neutral
+2020-07-05 15:01:08+00:00,limited edition short shorts now available at,0.28095238095238095,0.10952380952380954,Positive
+2020-07-04 21:08:32+00:00,"""orbiting earth in the spaceship, i saw how beautiful our planet is. people, let us preserve and increase this beauty, not destroy it!""
+
+- comrade yuri",0.5,0.4875,Positive
+2020-07-05 01:16:45+00:00,beautiful fireworks in la tonight,1.0,0.85,Positive
+2020-07-04 22:18:16+00:00,"north american supercharger usage is now at pre-covid high, europe about a week behind, china & asia-pacific in general doing great",0.49799999999999994,0.12200000000000003,Positive
+2020-07-04 12:47:29+00:00,please take a moment to report accounts clearly engaged in harassment. it is the only way to maintain public discourse.,0.48333333333333334,0.03333333333333334,Positive
+2020-07-04 12:47:29+00:00,please take a moment to report accounts clearly engaged in harassment. it is the only way to maintain public discourse.,0.48333333333333334,0.03333333333333334,Positive
+2020-07-04 12:44:43+00:00, happy 4th of july!! ,1.0,1.0,Positive
+2020-07-03 23:46:58+00:00,"tesla ( $tsla ) achieved victory in q2 2020 with 90,650 deliveries
+
+amazing quarter  & team  , this number is absolutely incredible!! good job
+
+congrats to all tesla  as well 
+",0.8000000000000002,0.7666666666666666,Positive
+2020-07-02 16:15:01+00:00,crew dragon docked to the ,0.0,0.0,Neutral
+2020-07-02 15:06:28+00:00,thanks tesla owners & investors! love you!! we will work super hard to earn your trust & support.,0.5020833333333333,0.26822916666666663,Positive
+2020-07-02 09:26:51+00:00,"just over a month ago,  &  launched to the  aboard 's crew dragon.
+
+this mission returned astronaut launches into orbit from u.s. soil for the first time since 2011.
+
+learn more about the commercial crew program ",0.27777777777777773,0.25,Positive
+2020-07-02 13:57:26+00:00,"sec, three letter acronym, middle word is elons",0.3,-0.05,Negative
+2020-07-02 13:50:12+00:00,will send some to the shortseller enrichment commission to comfort them through these difficult times,1.0,-0.5,Negative
+2020-07-02 13:40:47+00:00,tesla will make fabulous short shorts in radiant red satin with gold trim,0.43333333333333335,0.13333333333333333,Positive
+2020-07-02 13:24:57+00:00,who wears short shorts? ,0.3,0.0,Neutral
+2020-07-02 07:36:15+00:00,tesla crushes wall streets q2 estimates with over 90k deliveries $tsla,0.0,0.0,Neutral
+2020-07-01 14:30:36+00:00,"tesla impact report (repost). we do everything humanly possible to source materials & produce sustainable energy cars, batteries & solar ethically. suggestions for improvement are always appreciated.",0.5666666666666668,0.13333333333333333,Positive
+2020-06-30 16:56:52+00:00,your gps just got slightly better,0.5,0.5,Positive
+2020-06-30 15:20:47+00:00,falcon 9s first stage has landed on the just read the instructions droneship!,0.3333333333333333,0.3125,Positive
+2020-06-30 15:11:22+00:00,liftoff!,0.0,0.0,Neutral
+2020-06-29 22:12:47+00:00,"the tesla supercharger provides an ecosystem and network of amazing travel and shopping opportunities. i plan a lot of trips with my family around what is around a supercharger. whether its bike rides, grocery shopping or eating, the supercharger network has it all. ",0.9,0.6000000000000001,Positive
+2020-06-28 18:39:41+00:00,"btw, tesla actually receives *least* subsidies of any automaker in us. federal tax credit applies to other automaker evs, but no longer tesla.",0.2916666666666667,-0.14166666666666666,Negative
+2020-06-28 18:35:42+00:00,great model y review by ,0.75,0.8,Positive
+2020-06-28 00:28:20+00:00,"cybertruck inside petersen automotive museum.
+tesla cybertruck",0.0,0.0,Neutral
+2020-06-28 16:54:51+00:00,69 days after 4/20 again haha,0.3,0.2,Positive
+2020-06-26 12:28:53+00:00,. is a copy  haha,0.3,0.2,Positive
+2020-06-26 02:35:57+00:00,"who controls the memes,
+controls the universe",0.0,0.0,Neutral
+2020-06-26 01:03:42+00:00,literally,0.0,0.0,Neutral
+2020-06-26 00:57:58+00:00,only a matter of time before someone steals a tesla while playing gta on a tesla,1.0,0.0,Neutral
+2020-06-26 00:25:09+00:00,north american supercharger usage tracking to exceed pre covid highs in 2 to 3 weeks. lot of noise out there. this is signal.,0.0,0.0,Neutral
+2020-06-25 17:05:18+00:00,first thoughts driving my new tesla model y. review and discussion of what i learned at tesla today and outlook for the stock. tesla $tsla teslamodely stockmarket stock ,0.3939393939393939,0.19318181818181818,Positive
+2020-06-25 02:43:07+00:00,two starship tanks in the midbay,0.0,0.0,Neutral
+2020-06-24 21:57:55+00:00,special thanks to tesla trucking & rail partners for figuratively & literally going the extra mile,0.29047619047619044,0.18571428571428572,Positive
+2020-06-24 21:56:12+00:00,apologies to tesla customers for shifting delivery dates. its a crazy world out there!,0.9,-0.75,Negative
+2020-06-24 19:45:43+00:00,"wall street journal: tesla model y offers fierce, velvety drivingcharacteristics",0.0,0.1,Positive
+2020-06-21 22:11:02+00:00,tentative date for tesla shareholder meeting & battery day is sept 15. will include tour of cell production system.,0.0,0.0,Neutral
+2020-06-21 22:05:26+00:00,reminder that tesla full self-driving (fsd) price goes up by $1k on july 1st,0.55,0.35,Positive
+2020-06-21 22:04:26+00:00,enabling basic tesla autopilot via tesla in-app purchase is reduced to $2k until july 1,0.125,0.0,Neutral
+2020-06-21 10:27:16+00:00,2019 seems so quaint & long ago,0.4,-0.05,Negative
+2020-06-21 03:29:04+00:00,that is our purpose,0.0,0.0,Neutral
+2020-06-21 03:07:42+00:00,we must pass the great filter,0.75,0.8,Positive
+2020-06-21 02:03:08+00:00,mars is my souldog,0.0,0.0,Neutral
+2020-06-21 01:19:41+00:00,"if heat death is the end of the universe, it really is all about the journey",0.2,0.2,Positive
+2020-06-21 00:03:12+00:00,exclusive pro photos: tesla cybertruck at the petersen automuseum,0.0,0.0,Neutral
+2020-06-19 12:06:03+00:00,juneteenth is henceforth considered a us holiday at tesla & spacex,0.0,0.0,Neutral
+2020-06-17 20:24:00+00:00,more than 100 spacecraft have been signed up to fly on falcon 9 since we launched the rideshare program. small satellite operators can book their ride to orbit online  ,0.6,0.35000000000000003,Positive
+2020-05-30 08:50:34+00:00,"help us find an unsung hero! if they win, they get $50k & you get up to $3k for nominating/spreading the word. our first 3 awards went to vasili arkhipov, stanislav petrov & matthew meselson, for helping prevent 2 nuclear wars & 1 bioweapon arms race.",0.3666666666666667,0.525,Positive
+2020-06-16 14:20:04+00:00,"spacex is building floating, superheavy-class spaceports for mars, moon & hypersonic travel around earth",0.0,0.0,Neutral
+2020-06-15 21:07:13+00:00,all model s cars made since late jan have 402 mile range. this is just making it official.,0.6,-0.3,Negative
+2020-06-15 18:53:26+00:00,tesla model s now first ever electric vehicle to receive epa range rating above 400 miles!,0.21666666666666667,0.125,Positive
+2020-06-15 18:36:49+00:00,china & asia pacific supercharger usage above pre-covid highs. north america catching up fast. europe slightly behind.,0.575,0.1,Positive
+2020-06-13 05:33:32+00:00,falcon 9 launches 58 starlink satellites and 3  skysats to orbit before returning to earth and landing on a droneship,0.0,0.0,Neutral
+2020-06-10 17:22:01+00:00,catapults are a great way to get somewhere fast ,0.675,0.5,Positive
+2020-06-10 14:06:53+00:00,tesla factory workplace safety is 5% better than industry average for manufacturers & improving fast,0.5,0.18333333333333335,Positive
+2020-06-10 13:28:56+00:00,after which they are recycled,0.0,0.0,Neutral
+2020-06-10 13:26:00+00:00,tesla batteries are lasting much longer than 200k miles / 320k km,0.1,0.1,Positive
+2020-06-10 13:22:29+00:00,"moreover, energy produced by tesla solar deployments far exceeds energy used in our factories",1.0,0.1,Positive
+2020-06-10 13:21:05+00:00,"electric cars produce *much* less co2 than fossil fuel cars, taking both electricity emission & vehicle production into acount",0.06666666666666667,-0.16666666666666666,Negative
+2020-06-10 13:07:22+00:00,"posting tesla impact report, this time with summary points & charts in my reply tweets ",0.0,0.0,Neutral
+2020-06-10 09:15:45+00:00,"wort reading the whole thing
+",0.4,0.2,Positive
+2020-06-09 16:24:53+00:00,starlink fairing deploy sequence,0.0,0.0,Neutral
+2020-06-08 13:18:41+00:00,"wow, this is extremely important!!",1.0,0.3625,Positive
+2020-06-06 19:46:56+00:00,gateway to mars,0.0,0.0,Neutral
+2020-06-06 18:42:00+00:00,"starship production complex
+boca chica, texas",0.4,-0.3,Negative
+2020-06-06 02:48:25+00:00,the gerontocracy is out of touch with the people,0.0,0.0,Neutral
+2020-06-06 02:06:09+00:00,"selling weed literally went from major felony to essential business (open during pandemic) in much of america & yet many are still in prison. doesnt make sense, isnt right.",0.4226190476190476,0.17470238095238097,Positive
+2020-06-06 01:54:21+00:00,"this will probably get me into trouble, but i feel i have to say it",0.2,-0.2,Negative
+2020-06-05 22:38:45+00:00,order a tesla online in 2 mins at,0.0,0.0,Neutral
+2020-06-04 11:55:46+00:00,"falcon 9 flew for the first time ten years ago today. completing 85 missions to date, falcon 9 is now the most flown operational rocket in the united states.",0.27777777777777773,0.25,Positive
+2020-06-03 20:58:56+00:00,always incredible!  ,0.9,1.0,Positive
+2020-06-03 20:26:28+00:00,liftoff!,0.0,0.0,Neutral
+2020-05-30 10:00:29+00:00,live webcast of crew dragons test flight with  astronauts  and   ,0.5,0.13636363636363635,Positive
+2020-05-31 09:18:33+00:00,docking confirmed  crew dragon has arrived at the ,1.0,0.4,Positive
+2020-05-31 06:32:20+00:00,dragon docks with  in ~3 hours,0.0,0.0,Neutral
+2020-05-30 14:35:50+00:00,"crew dragon has separated from falcon 9s second stage and is on its way to the international space station with  and ! autonomous docking at the  will occur at ~10:30 a.m. edt tomorrow, may 31",0.2333333333333333,0.13333333333333333,Positive
+2020-05-30 14:33:11+00:00,falcon 9 booster has landed on the of course i still love you droneship!,0.6,0.625,Positive
+2020-05-30 14:23:38+00:00,liftoff!,0.0,0.0,Neutral
+2020-05-30 14:17:55+00:00,5 mins to t-0,0.0,0.0,Neutral
+2020-05-30 11:21:53+00:00,. and  arrive at historic launch complex 39a  ,0.2,-0.15,Negative
+2020-05-30 06:51:36+00:00,all systems go for crew dragons test flight with  astronauts  and  teams are keeping an eye on weather. webcast will go live at ~11:00 a.m. edt  ,0.5,0.13636363636363635,Positive
+2020-05-27 14:16:49+00:00,artwork by  flying aboard dragon,0.0,0.0,Neutral
+2020-05-27 15:20:24+00:00,"standing down from launch today due to unfavorable weather in the flight path. our next launch opportunity is saturday, may 30 at 3:22 p.m. edt, or 19:22 utc",0.22129629629629632,-0.09351851851851851,Negative
+2020-05-27 14:50:41+00:00,crew access arm retracting from the spacecraft,0.0,0.0,Neutral
+2020-05-27 11:22:30+00:00,webcast of crew dragons demonstration mission with  astronauts  and  on board the spacecraft is now live ,0.5,0.13636363636363635,Positive
+2020-05-27 12:52:47+00:00," strapped in 
+ ready for the ride
+
+launchamerica",0.5,0.2,Positive
+2020-05-25 18:22:50+00:00,falcon 9 and crew dragon will lift off from launch complex 39a  the same place saturn v launched humanity to the moon and from where the first and final space shuttle missions lifted off,0.46458333333333335,-0.012499999999999997,Negative
+2020-05-25 18:23:17+00:00,"strap yourself into the  dragon capsule that will take   astronauts to the  wednesday. 
+
+don't miss nasa & spacex: journey to the future tonight at 10pm et!",0.125,0.0,Neutral
+2020-05-25 10:30:00+00:00,"as we look forward to the future, we reflect and remember those who secured it for us by making the ultimate sacrifice. memorialday",0.5625,0.0,Neutral
+2020-05-24 18:38:13+00:00,the  is circling earth at 25 times the speed of sound ,0.4,0.4,Positive
+2020-05-23 18:09:46+00:00,spacex and  completed a full rehearsal of launch day activities with  and  ahead of crew demo-2,0.55,0.35,Positive
+2020-05-23 14:39:50+00:00,made on earth by humans,0.0,0.0,Neutral
+2020-05-22 19:02:01+00:00,the medium is the message,0.0,0.0,Neutral
+2020-05-22 18:24:21+00:00,"open your eyes, look up to the skies",0.5,0.0,Neutral
+2020-05-21 19:55:18+00:00,icymi: earth is beautiful.,1.0,0.85,Positive
+2020-05-21 15:19:12+00:00,falcon 9 and crew dragon are vertical on the launch pad,0.0,0.0,Neutral
+2020-05-20 21:34:04+00:00,crew dragon and falcon 9 in the hangar at launch complex 39a,0.4,-0.3,Negative
+2020-05-18 14:55:21+00:00,"the crew dragon has arrived to launch complex 39a! 
+
+this spacecraft will carry  and  to the  when it launches atop a  falcon 9 rocket on may 27, at 4:33 p.m. et: ",0.4,-0.375,Negative
+2020-05-19 11:56:34+00:00,"more fun, less shun!",0.25555555555555554,0.19722222222222227,Positive
+2020-05-19 11:35:23+00:00,cancel cancel culture!,0.0,0.0,Neutral
+2020-05-18 18:48:43+00:00,"the fsd price will continue to rise as the software gets closer to full self-driving capability with regulatory approval. it that point, the value of fsd is probably somewhere in excess of $100,000.",0.55,0.35,Positive
+2020-05-17 12:44:14+00:00,take the red pill ,0.0,0.0,Neutral
+2020-05-15 12:13:14+00:00,the age of napoleon by will & ariel durant is an amazing book,0.9,0.6000000000000001,Positive
+2020-05-15 08:20:00+00:00,"kerbonauts, we have a mission for you! on may 27,  and  are launching astronauts to the  from u.s. soil! we challenge you to simulate the mission and share your footage by may 25 using launchamerica. well show nasa the best ones to see what they think!",0.3,1.0,Positive
+2020-05-15 11:37:06+00:00,its remarkable how often the news attempts to answer the question: what is the worst thing that happened on earth today?,0.875,-0.125,Negative
+2020-05-14 22:47:33+00:00,boring company completes 2nd vegas tunnel,0.5,-0.5,Negative
+2020-05-14 18:22:56+00:00,"breakthrough, part deux  ",0.0,0.0,Neutral
+2020-05-14 22:43:50+00:00,"in his 18th brumaire essay (in which he does make some good points), marx famously said history repeats itself, first as tragedy, then as farce. this is now ironically happening with marxism.",0.6083333333333334,0.26249999999999996,Positive
+2020-05-14 14:06:25+00:00,tesla supercharger usage by region,0.0,0.0,Neutral
+2020-05-13 15:25:09+00:00,heres some  news that everyone should love. check out the model x that will carry  and  to the launchpad for the demo-2 mission! launchamerica,0.6,0.625,Positive
+2020-05-13 17:36:00+00:00,super exciting day coming up!,0.7333333333333334,0.35416666666666663,Positive
+2020-05-13 11:11:15+00:00,"the first stage rocket booster supporting this mission previously  launched two starlink missions, as well as the iridium-8 and telstar 18 vantage missions",0.24999999999999997,0.11111111111111112,Positive
+2020-05-13 11:11:14+00:00,"static fire test of falcon 9 completetargeting sunday, may 17 at 3:53 a.m. edt, 7:53 utc, for launch of the eighth starlink mission, which will lift off from slc-40 in florida",0.9,0.5,Positive
+2020-05-12 22:58:16+00:00,elon musks email to tesla employees returning towork,0.0,0.0,Neutral
+2020-05-12 23:11:08+00:00,ice cream sundae in a martini glass,0.0,0.0,Neutral
+2020-05-12 13:03:39+00:00,simulator of crew dragon docking with   ,0.0,0.0,Neutral
+2020-05-12 03:31:00+00:00,thats pretty much what happened,0.6,0.225,Positive
+2020-05-11 15:23:55+00:00,"yes, california approved, but an unelected county official illegally overrode. also, all other auto companies in us are approved to resume. only tesla has been singled out. this is super messed up!",0.6354166666666666,-0.05208333333333334,Negative
+2020-05-11 15:36:52+00:00,"tesla is restarting production today against alameda county rules. i will be on the line with everyone else. if anyone is arrested, i ask that it only be me.",1.0,0.0,Neutral
+2020-05-10 23:06:26+00:00,thanks for the cool suggestions  more fun coming to your tesla soon!,0.3875,0.35625,Positive
+2020-05-10 21:43:04+00:00,happy mothers day to other mothers!!  ,0.6875,0.30234375,Positive
+2020-05-09 23:48:29+00:00,sn4 passed high pressure (7.5 bar) & engine thrust load at cryo,0.5399999999999999,0.16,Positive
+2020-05-09 04:03:00+00:00,"half a , philosophically, must ipso facto half not ",0.1111111111111111,-0.1111111111111111,Negative
+2020-05-09 03:54:30+00:00,"once again, i must recommend ",0.0,0.0,Neutral
+2020-05-06 03:04:27+00:00,wishing good vibes for all in 2nd half 2020,0.2555555555555556,0.17777777777777778,Positive
+2020-05-05 22:33:46+00:00,whats wild is that super heavy will have 31 raptor engines in same space!,0.42291666666666666,0.058333333333333334,Positive
+2020-05-05 22:26:43+00:00,starship sn4 passed static fire,0.9,0.5,Positive
+2020-05-03 14:10:40+00:00,"well said, lord sumption, well said!",0.0,0.0,Neutral
+2020-05-03 03:03:50+00:00,anyone think they can get a good multiplayer minecraft working on teslas? or maybe create a game that interacts virtually with reality like pokmon go while driving safely? like a complex version of pac-man or mario kart?,0.475,0.12499999999999999,Positive
+2020-05-03 02:56:49+00:00,minecraft has amazing legs,0.9,0.6000000000000001,Positive
+2020-05-03 02:48:03+00:00,that was 2.5 years ago & still not even on the moon. progress must accelerate!,0.0,0.0,Neutral
+2020-05-02 14:55:34+00:00,one of the all-time best songs,0.3,1.0,Positive
+2020-05-01 18:32:51+00:00,crew dragon at the cape undergoing final preparations ahead of first flight to the  with  astronauts onboard,0.6666666666666666,0.125,Positive
+2020-05-03 14:10:40+00:00,"well said, lord sumption, well said!",0.0,0.0,Neutral
+2020-05-03 03:03:50+00:00,anyone think they can get a good multiplayer minecraft working on teslas? or maybe create a game that interacts virtually with reality like pokmon go while driving safely? like a complex version of pac-man or mario kart?,0.475,0.12499999999999999,Positive
+2020-05-03 02:56:49+00:00,minecraft has amazing legs,0.9,0.6000000000000001,Positive
+2020-05-03 02:48:03+00:00,that was 2.5 years ago & still not even on the moon. progress must accelerate!,0.0,0.0,Neutral
+2020-05-02 14:55:34+00:00,one of the all-time best songs,0.3,1.0,Positive
+2020-05-01 18:32:51+00:00,crew dragon at the cape undergoing final preparations ahead of first flight to the  with  astronauts onboard,0.6666666666666666,0.125,Positive
+2020-05-01 11:17:43+00:00,my gf  is mad at me,1.0,-0.625,Negative
+2020-05-01 11:14:14+00:00,just one stipulation on sale: i own gene wilders old house. it cannot be torn down or lose any its soul.,0.4962962962962963,0.18148148148148147,Positive
+2020-05-01 11:08:57+00:00,"rage, rage against the dying of the light of consciousness",0.7,0.4,Positive
+2020-05-01 10:30:38+00:00,o'er the land of the free and the home of the brave?,0.9,0.6000000000000001,Positive
+2020-05-01 10:29:47+00:00,"oh, say does that star-spangled banner yet wave",0.0,0.0,Neutral
+2020-05-01 10:28:08+00:00,gave proof through the night that our flag was still there,0.0,0.0,Neutral
+2020-05-01 10:26:46+00:00,"and the rocket's red glare, 
+the bombs bursting in air",0.0,0.0,Neutral
+2020-05-01 10:15:13+00:00,now give people back their freedom,0.0,0.0,Neutral
+2020-05-01 10:11:26+00:00,tesla stock price is too high imo,0.5399999999999999,0.16,Positive
+2020-05-01 10:10:24+00:00,i am selling almost all physical possessions. will own no house.,0.5714285714285714,0.3,Positive
+2020-05-01 09:08:33+00:00,why our launch of the  &  demo-2 mission to the   is essential: ,0.3,0.0,Neutral
+2020-04-30 11:54:13+00:00,"tesla reached 1,000 solar roof production in a single week, exceeding 4mw",0.21428571428571427,-0.07142857142857142,Negative
+2020-04-30 13:25:56+00:00,this is misleading to the public,0.06666666666666667,0.0,Neutral
+2020-04-30 12:54:59+00:00,classifying all deaths as corona even if corona didnt cause the death is simply a lie ,0.35714285714285715,0.0,Neutral
+2020-04-30 10:25:45+00:00,"both  and  have said we should go build/get back to work and have been met with harsh criticism. 
+
+im with them. 
+
+time to free us for the sake of progress.",0.5,0.06666666666666667,Positive
+2020-04-30 12:09:50+00:00,"last year, nasa announced starship as eligible for the commercial lunar payload services (clps) initiative  to deliver payloads between earth and the moon, and to enable humans to return to the moon",0.03333333333333333,0.0,Neutral
+2020-04-30 12:09:47+00:00,spacex has been selected to develop a lunar optimized starship to transport crew between lunar orbit and the surface of the moon as part of s artemis program! ,0.0,0.0,Neutral
+2020-04-30 12:09:47+00:00,spacex has been selected to develop a lunar optimized starship to transport crew between lunar orbit and the surface of the moon as part of s artemis program! ,0.0,0.0,Neutral
+2020-04-29 01:42:14+00:00,"yes, reopen with care & appropriate protection, but dont put everyone under de facto house arrest",0.25,0.225,Positive
+2020-04-30 09:39:36+00:00,why forced isolation is bad,0.43333333333333335,-0.49999999999999994,Negative
+2020-04-29 21:46:53+00:00,"provided the hospital system is not overwhelmed,  is 100% correct that people should be able to make their down decision to stay quarantined or not
+
+people already have this right, the government is simply lobbying folks to stay home, but they cant keep them there",0.451686507936508,0.15753968253968254,Positive
+2020-04-29 21:58:14+00:00,california hhs server crashed. maybe it has covid.,0.0,0.0,Neutral
+2020-04-29 21:05:19+00:00,actual data reference chhs ,0.1,0.0,Neutral
+2020-04-29 21:02:52+00:00,hospitals in california have been half empty this whole time,0.35555555555555557,-0.022222222222222216,Negative
+2020-04-29 18:46:17+00:00,"$tsla ceo  blasts shelter in place orders: to say that they cannot leave their house and they will be arrested if they do, this is fascist.  this is not democratic, this is not freedom, give people back their god damn freedom.",0.0,0.0,Neutral
+2020-04-29 01:14:53+00:00,free america now,0.8,0.4,Positive
+2020-04-29 01:03:52+00:00,give people their freedom back!,0.0,0.0,Neutral
+2020-04-27 18:54:39+00:00,too much the moral arbiter of the world,0.225,0.1,Positive
+2020-04-27 18:54:13+00:00,silicon valley has become sanctimonious valley,0.0,0.0,Neutral
+2020-04-26 23:44:34+00:00,sn4 passed cryo proof! ,0.0,0.0,Neutral
+2020-04-26 22:50:33+00:00,snowing in texas,0.0,0.0,Neutral
+2020-04-26 18:07:00+00:00,"airplanes fly about 600 mph, but the  orbits earth at 17,500 mph & looks like a very bright star moving across the sky. did you know that you can track when the station will pass overhead? find out when & where to spotthestation:  nasaathome",0.95,0.8550000000000001,Positive
+2020-04-26 14:38:22+00:00,"docs make good points 
+",0.6000000000000001,0.7,Positive
+2020-04-26 10:27:11+00:00,aiming for cryo pressure test tonight,0.0,0.0,Neutral
+2020-04-26 10:21:04+00:00,great to see starship sn4 standing tall this morning after last nights pressure test. waiting to hear from  on results.,0.4083333333333333,0.4,Positive
+2020-04-25 06:50:25+00:00,so often true ,0.65,0.35,Positive
+2020-04-24 18:55:15+00:00,mythic quest is  mttd,0.0,0.0,Neutral
+2020-04-24 14:30:43+00:00,"starting today teslas in the us can automatically stop for traffic lights and stop signs.
+
+just say where you want to go. your tesla will drive you through city streets, across highways interchanges, go around slow cars, and exit all on its own.
+
+you just monitor. ",0.5,0.09999999999999998,Positive
+2020-04-24 16:17:11+00:00,great questions from hack club!,0.75,1.0,Positive
+2020-04-24 13:10:53+00:00,"the machine stops
+",0.0,0.0,Neutral
+2020-04-23 19:30:31+00:00,welcome  to the tesla board! honored to have you.,0.9,1.0,Positive
+2020-04-23 13:58:59+00:00,starship sn4 tank on test stand,0.0,0.0,Neutral
+2020-04-23 13:39:49+00:00,silver lining is that mortality rate is much lower than predicted & herd immunity much higher. good news.,0.43333333333333335,0.3833333333333333,Positive
+2020-04-23 03:02:03+00:00,"tesla model s and model x get free acceleration and endurance boost in new update
+",0.6272727272727273,0.2681818181818182,Positive
+2020-04-22 19:07:29+00:00,"in advance of this, please try to hack starlink & tesla mothership!",0.0,0.0,Neutral
+2020-04-22 17:15:10+00:00,there are now 420 operational starlink satellites  ,0.0,0.0,Neutral
+2020-04-22 14:27:54+00:00,"starlink will deliver high speed broadband internet to locations where access has been unreliable, expensive, or completely unavailable",0.5466666666666665,-0.07999999999999999,Negative
+2020-04-22 14:47:26+00:00,successful deployment of 60 starlink satellites confirmed,0.975,0.575,Positive
+2020-04-22 14:18:58+00:00,watch falcon 9 launch 60 starlink satellites  ,0.0,0.0,Neutral
+2020-04-22 08:56:14+00:00,"new t-0 of 3:30 p.m. edt, 19:30 utc, for todays launch of starlink",0.45454545454545453,0.13636363636363635,Positive
+2020-04-22 08:21:13+00:00,happy earth day!,1.0,1.0,Positive
+2020-04-17 22:02:28+00:00,orbital human spaceflight returns to the cape in six weeks!,0.1,0.0,Neutral
+2020-04-17 12:49:08+00:00,"human spaceflight is returning to america! 
+
+on may 27,  astronauts  and  will launch on 's crewdragon spacecraft from  for the demo-2 mission. launchamerica
+: ",0.1,0.0,Neutral
+2020-04-17 12:54:52+00:00,"good progress, but 18 years to launch our first humans is a long time. technology must advance faster or there will be no city on the red planet in our lifetime.",0.33333333333333337,0.22499999999999998,Positive
+2020-04-16 12:56:33+00:00,"these were based on direct requests from their icu wards, with exact specifications of each unit provided before shipment",0.325,0.175,Positive
+2020-04-16 12:54:18+00:00,partial list of hospitals to which tesla sent ventilators,0.3,-0.1,Negative
+2020-04-16 02:50:51+00:00,dr. levitan advocates combining breathing support from a cpap machine or regular oxygen with comfortable positioning. yup.,0.43846153846153846,0.2,Positive
+2020-04-16 02:44:36+00:00,dont jump to intubation.  dr caputo,0.0,0.0,Neutral
+2020-04-14 19:02:29+00:00,"to be clear, fremont & shanghai will also be upgraded over time, but its hard to retrofit these improvements to an operating paint shop",0.46249999999999997,-0.09583333333333333,Negative
+2020-04-14 18:59:35+00:00,initial production at giga berlin is model y,0.0,0.0,Neutral
+2020-04-14 18:56:31+00:00,"giga berlin will have worlds most advanced paint shop, with more layers of stunning colors that subtly change with curvature",0.62,0.31333333333333335,Positive
+2020-04-12 20:38:11+00:00,"while others party, he study the blade",0.0,0.0,Neutral
+2020-04-12 17:47:18+00:00,"happy easter!
+follow the ",1.0,1.0,Positive
+2020-04-12 00:26:40+00:00,turns out that gun is for the toilet paper,0.0,-0.03333333333333333,Negative
+2020-04-10 02:39:10+00:00,but actually,0.1,0.0,Neutral
+2020-04-08 19:41:11+00:00,"tesla wins 5/6 kelley blue book awards
+
+ best overall
+ best value
+ most refined
+ best performance
+ best styling",0.25,0.6,Positive
+2020-04-08 17:18:50+00:00,what is simple in one arena is often profound in another,0.6785714285714286,0.041666666666666664,Positive
+2020-04-08 15:56:19+00:00,great differences in technology exist in the world about which even hardcore technologists are unaware,0.625,0.4,Positive
+2020-04-08 14:47:38+00:00,"four years ago today, falcon 9 landed on the of course i still love you droneship for the first time. additional falcon landings footage ",0.4666666666666667,0.375,Positive
+2020-04-07 15:45:47+00:00,the 20th & final dragon 1 mission is complete,0.4666666666666666,0.03333333333333333,Positive
+2020-04-07 06:45:01+00:00,"were about to release a dragon into space.
+
+tune in live at 8:45am et to see a  spacecraft packed with cargo and  depart the  for the journey back to earth. grab your coffee & watch: ",0.25,0.06818181818181818,Positive
+2020-04-06 20:21:18+00:00,here you go,0.0,0.0,Neutral
+2020-04-06 02:00:34+00:00,starship fuel header tank,0.0,0.0,Neutral
+2020-04-05 21:58:56+00:00,music is a limbic resonator,0.0,0.0,Neutral
+2020-04-05 18:18:35+00:00,engineering update on the tesla ventilator,0.0,0.0,Neutral
+2020-04-05 02:49:54+00:00,so proud,1.0,0.8,Positive
+2020-04-05 02:30:58+00:00,raptors,0.0,0.0,Neutral
+2020-04-05 02:02:27+00:00,were adding this here catchy tune to the music maker in the tesla!,0.0,0.0,Neutral
+2020-04-04 09:50:03+00:00,mdtismobilizing with . our collaboration with  / spacex is bearing fruit.  is now making a vital component for critical care ventilators  more vents sooner for covid19 patients.,0.5666666666666668,0.19999999999999998,Positive
+2020-04-04 12:42:13+00:00,press any key to continue,1.0,0.0,Neutral
+2020-04-02 11:06:21+00:00,"the worm is back! when the  falcon 9 lifts off carrying  aboard crewdragon, it will sport the iconic symbol to mark the return of human spaceflight on american rockets from american soil. more:  thewormisback",0.18333333333333335,0.16666666666666666,Positive
+2020-03-31 10:27:02+00:00,"we have extra fda-approved ventilators. will ship to hospitals worldwide within tesla delivery regions. device & shipping cost are free. only requirement is that the vents are needed immediately for patients, not stored in a warehouse. please me or  know.",0.6333333333333333,0.13333333333333333,Positive
+2020-03-30 13:27:28+00:00,now on launch stand,0.0,0.0,Neutral
+2020-03-30 13:17:00+00:00,hello from the inside,0.0,0.0,Neutral
+2020-03-30 12:53:30+00:00,logarithm graphs coming soon,0.0,0.0,Neutral
+2020-03-27 17:51:10+00:00,"would be great to combine blood donations with a c19 antibody test, so you know if youre immune. refill blood banks & give donors peace of mind.",0.75,0.8,Positive
+2020-03-26 06:29:22+00:00,"5/ one last point here: ferguson gives the lockdown credit, which is *interesting* - the uk only began ita lockdown 2 days ago, and the theory is that lockdowns take 2 weeks or more to work.",0.5166666666666666,0.25,Positive
+2020-03-26 06:26:33+00:00,4/ ferguson now predicts that the epidemic in the u.k. will peak and subside within two to three weeks - last weeks paper said 18+ months of quarantine would be necessary.,0.5333333333333333,0.0,Neutral
+2020-03-26 06:21:33+00:00,"3/ essentially, what has happened is that estimates of the viruses transmissibility have increased - which implies that many more people have already gotten it than we realize - which in turn implies it is less dangerous.",0.4533333333333333,0.046666666666666676,Positive
+2020-03-26 06:14:33+00:00,"2/ he now says both that the u.k. should have enough icu beds and that the coronavirus will probably kill under 20,000 people in the u.k. - more than 1/2 of whom would have died by the end of the year in any case bc they were so old and sick.",0.5142857142857142,-0.02857142857142858,Negative
+2020-03-26 06:10:28+00:00,"1/ this is a remarkable turn from neil ferguson, who led the  authors who warned of 500,000 uk deaths - and who has now himself tested positive for covid;",0.6477272727272727,0.48863636363636365,Positive
+2020-03-24 13:42:18+00:00,this meme proves it,0.0,0.3,Positive
+2020-03-24 13:35:36+00:00,its ducked!,0.0,0.0,Neutral
+2020-03-21 15:20:47+00:00,addressing covid19 is a group effort. we are grateful for the discussion with  and  as we work across industries to solve problems and get patients and hospitals the tools they need to continue saving lives. we're all in this together.,0.0,0.0,Neutral
+2020-03-21 13:22:39+00:00,just had a long engineering discussion with medtronic about state-of-the-art ventilators. very impressive team!,0.7,0.475,Positive
+2020-03-19 16:34:04+00:00,no new domestic corona cases in china,0.2772727272727273,-0.03409090909090909,Negative
+2020-03-18 18:06:43+00:00,spacex and  are targeting no earlier than mid-to-late may for crew dragons launch with two  on board ,0.5,0.0,Neutral
+2020-03-18 07:33:13+00:00,successful deployment of 60 starlink satellites confirmed,0.975,0.575,Positive
+2020-03-18 06:46:12+00:00,"falcon 9, starlink satellites and weather are go for launch. t-30 minutes until liftoff  ",0.0,0.0,Neutral
+2020-03-18 00:07:45+00:00,because polygon doesnt rhyme,0.0,0.0,Neutral
+2020-03-17 23:52:13+00:00,abysmal autocorrect might be the 1 reason people dont fear ai,0.0,0.0,Neutral
+2020-03-17 23:27:44+00:00,fear the memesphere,0.0,0.0,Neutral
+2020-03-16 23:50:11+00:00,"hydroxychloroquine probably better
+",0.5,0.5,Positive
+2020-03-18 07:33:13+00:00,successful deployment of 60 starlink satellites confirmed,0.975,0.575,Positive
+2020-03-18 06:46:12+00:00,"falcon 9, starlink satellites and weather are go for launch. t-30 minutes until liftoff  ",0.0,0.0,Neutral
+2020-03-18 00:07:45+00:00,because polygon doesnt rhyme,0.0,0.0,Neutral
+2020-03-17 23:52:13+00:00,abysmal autocorrect might be the 1 reason people dont fear ai,0.0,0.0,Neutral
+2020-03-17 23:27:44+00:00,fear the memesphere,0.0,0.0,Neutral
+2020-03-16 23:50:11+00:00,"hydroxychloroquine probably better
+",0.5,0.5,Positive
+2020-03-16 22:34:13+00:00,"that said, danger of panic still far exceeds danger of corona imo. if we over-allocate medical resources to corona, it will come at expense of treating other illnesses. track graph at bottom of this page: ",0.4583333333333333,-0.008333333333333331,Negative
+2020-03-16 22:27:14+00:00,this paper matches what im hearing from a lot of smart people ,0.6428571428571429,0.21428571428571427,Positive
+2020-03-16 13:29:57+00:00,"targeting wednesday, march 18 at 8:16 a.m. edt, 12:16 utc, for falcon 9's launch of starlink from lc-39a in florida",0.0,0.0,Neutral
+2020-03-16 15:31:48+00:00,maybe worth considering chloroquine for c19 ,0.1,0.3,Positive
+2020-03-16 12:40:52+00:00,"model y deliveries begin!
+
+",0.0,0.0,Neutral
+2020-03-14 22:33:30+00:00,fear is the mind-killer,0.0,0.0,Neutral
+2020-03-13 18:37:58+00:00,falcon 9s first stage supporting this mission has flown to orbit four times,0.29166666666666663,0.25,Positive
+2020-03-13 18:37:58+00:00,"static fire test of falcon 9 completetargeting sunday, march 15 at 9:22 a.m. edt, 13:22 utc, for launch of 60 starlink satellites from lc-39a in florida",0.9,0.5,Positive
+2020-03-11 13:41:24+00:00,we should be excited about the future & striving to go beyond the horizon!,0.4375,0.1875,Positive
+2020-03-11 13:32:00+00:00,and so annoying,0.9,-0.8,Negative
+2020-03-11 13:31:05+00:00,"moral condemnation used not for morality, but as a weapon for manipulation is messed up",0.25,0.0,Neutral
+2020-03-11 11:57:51+00:00,moon too,0.0,0.0,Neutral
+2020-03-11 10:39:53+00:00,the people have spoken!,0.0,0.0,Neutral
+2020-03-10 23:26:02+00:00,"to those who quietly help advance the causes we mutually believe in, knowing advancing the cause is the only reward: thank you",0.6666666666666666,0.0,Neutral
+2020-03-10 14:24:42+00:00,"tesla topped 1st place  in consumer reports owner satisfaction survey 
+$tsla tesla
+ ",0.0,0.0,Neutral
+2020-03-10 19:14:21+00:00,model y production for east coast too,0.0,0.0,Neutral
+2020-03-10 19:12:04+00:00,scouting locations for cybertruck gigafactory. will be central usa.,0.25,0.0,Neutral
+2020-03-10 00:53:48+00:00,with an epic sound system & woofers the size of a car,0.4,0.25,Positive
+2020-03-09 23:49:56+00:00,tesla should have a mega rave cave under the berlin gigafatory,0.0,0.0,Neutral
+2020-03-10 23:26:02+00:00,"to those who quietly help advance the causes we mutually believe in, knowing advancing the cause is the only reward: thank you",0.6666666666666666,0.0,Neutral
+2020-03-10 14:24:42+00:00,"tesla topped 1st place  in consumer reports owner satisfaction survey 
+$tsla tesla
+ ",0.0,0.0,Neutral
+2020-03-10 19:14:21+00:00,model y production for east coast too,0.0,0.0,Neutral
+2020-03-10 19:12:04+00:00,scouting locations for cybertruck gigafactory. will be central usa.,0.25,0.0,Neutral
+2020-03-10 00:53:48+00:00,with an epic sound system & woofers the size of a car,0.4,0.25,Positive
+2020-03-09 23:49:56+00:00,tesla should have a mega rave cave under the berlin gigafatory,0.0,0.0,Neutral
+2020-03-09 23:26:25+00:00,was good maybe 5 or 6 years ago when you could wonder around & find great unknown bands,0.65,0.4666666666666666,Positive
+2020-03-09 23:22:13+00:00,too much corporate sponsorship killed the vibe,0.0,-0.1,Negative
+2020-03-09 23:14:13+00:00,coachella should postpone itself until it stops sucking,0.0,0.0,Neutral
+2020-03-09 21:32:21+00:00,"congratulations tesla team on making our 1,000,000th car!!",0.0,0.0,Neutral
+2020-03-07 04:01:24+00:00,accurate,0.6333333333333334,0.4000000000000001,Positive
+2020-03-07 00:07:47+00:00,envelope expanded,0.0,0.0,Neutral
+2020-03-06 23:36:03+00:00,webcast of falcon 9 launch now live  ,0.5,0.13636363636363635,Positive
+2020-03-06 21:28:58+00:00,rocket will land in highest winds ever at cape canaveral tonight. this is intentional envelope expansion.,0.0,0.0,Neutral
+2020-03-06 21:25:13+00:00,final dragon version 1 mission tonight,1.0,0.0,Neutral
+2020-03-06 15:42:39+00:00,the coronavirus panic is dumb,0.5,-0.375,Negative
+2020-03-05 15:24:59+00:00,art of the roof,0.0,0.0,Neutral
+2020-03-04 14:00:24+00:00,"model 3 recently earned the 2020 iihs top safety pick+ award. winning cars are selected on their ability to protect people inside and outside the car 
+",0.3875,0.25,Positive
+2020-03-03 03:49:26+00:00,they have the best coin,0.3,1.0,Positive
+2020-03-03 03:46:53+00:00,dogs rock,0.0,0.0,Neutral
+2020-03-02 20:21:14+00:00,just want say that i support  as twitter ceo. he has a good .,0.6000000000000001,0.7,Positive
+2020-02-27 00:10:00+00:00,"your cybertruck is here. it's just ... a toy. the hot wheels tesla cybertruck goes 25 miles per hour and accelerates like a demon. the headlights and taillights work and it even comes with two stickers that ""shatter"" the side windows.  details: ",0.8500000000000001,0.25,Positive
+2020-03-02 03:38:59+00:00,wheres flextape when you need it!?,0.0,0.0,Neutral
+2020-03-02 03:33:45+00:00,"its fine, well just buff it out",0.5,0.4166666666666667,Positive
+2020-03-02 03:32:15+00:00,so  how was your night?,0.0,0.0,Neutral
+2020-02-28 16:23:08+00:00,"falcon heavy will launch ! the mission, for which  requires the highest level of launch vehicle reliability, will study a metal asteroid between mars and jupiter to help humanity better understand the formation of our solar systems planets ",0.5,0.125,Positive
+2020-02-25 17:49:30+00:00,sn2 tank integration starts this week with much less circumferential pucker. thanks fronius!,0.13333333333333333,0.04166666666666667,Positive
+2020-02-25 17:47:31+00:00,starship sn1 tank preparing for raptor attachment & static fire,0.9,0.5,Positive
+2020-02-25 15:28:10+00:00,and thats why cones were invented,0.0,0.0,Neutral
+2020-02-25 15:10:27+00:00,tinny,0.0,0.0,Neutral
+2020-02-25 04:24:08+00:00,rococo is alive & living in our hearts,0.4,0.1,Positive
+2020-02-25 04:08:00+00:00,woody,0.0,0.0,Neutral
+2020-02-25 03:36:14+00:00,battle angel starship,0.0,0.0,Neutral
+2020-02-21 06:16:44+00:00,science has gone too far,1.0,0.1,Positive
+2020-02-20 14:54:33+00:00,tesla model 3 is consumer reports' top ev pick for 2020 ,0.5,0.5,Positive
+2020-02-20 05:29:23+00:00,"high bay for stacking starship engine bay, propellant tanks & fairing (fka nosecone) sections is almost done!",0.5399999999999999,0.2,Positive
+2020-02-19 19:51:55+00:00,"worth reading asimovs foundation
+",0.1,0.3,Positive
+2020-02-19 18:43:59+00:00,rocket nosecone production in texas,0.0,0.0,Neutral
+2020-02-17 10:23:23+00:00,successful deployment of 60 starlink satellites confirmed!,0.975,0.625,Positive
+2020-02-17 10:07:53+00:00,liftoff!,0.0,0.0,Neutral
+2020-02-16 19:01:12+00:00,crew dragon completes acoustic testing in florida,0.0,0.0,Neutral
+2020-02-15 20:14:27+00:00,looking forward to international expansion later this year ,0.0,0.0,Neutral
+2020-02-15 20:12:59+00:00,"tesla is ramping up solar roof installation across the usa! training will be provided, so no prior experience needed. apply at",0.0,0.0,Neutral
+2020-02-14 23:48:32+00:00,all s/x cars made in recent months have actually been above stated epa range. will be unlocked soon for free via software update.,0.3125,0.1,Positive
+2020-02-14 23:45:47+00:00,tesla model s estimated epa range is now above 390 miles or ~630 km,0.1,0.0,Neutral
+2020-02-14 23:35:09+00:00,run a physics sim long enough & youll get intelligence,0.45,-0.025,Negative
+2020-02-14 12:56:07+00:00,only the heart senses beauty,1.0,0.0,Neutral
+2020-02-13 15:45:40+00:00, be still my beating heart ,0.0,0.0,Neutral
+2020-02-12 02:52:05+00:00,thanks mom!!!  ,0.2,0.390625,Positive
+2020-02-12 02:45:16+00:00,and some vitamin k too,0.0,0.0,Neutral
+2020-02-12 02:02:46+00:00,ok u can have a little emerald ,0.5,0.15625,Positive
+2020-02-10 12:53:21+00:00,the degree to which solarglass will positively effect the esthetics & energy sustainability of neighborhoods throughout the world is not yet well appreciated. this is a very important product.,0.5484848484848485,0.31575757575757574,Positive
+2020-02-10 12:49:05+00:00,"tesla april company talk will be from our giga new york factory, where we make solarglass & several other products. will also offer customer & media tours.",0.27651515151515155,0.0037878787878787845,Positive
+2020-02-10 12:41:25+00:00,should preface this saying that feedback from early tesla solar roof owners has been v positive. its stunning vs a regular roof in person imo. photos dont do it justice.,0.4805944055944056,0.20681818181818182,Positive
+2020-02-10 12:25:09+00:00,please let us know what improvements we can make to any aspect of tesla solarglass roof! critical feedback is much appreciated.,0.45,0.1,Positive
+2020-02-10 03:17:32+00:00,midsection of starship propellant tanks,0.0,0.0,Neutral
+2020-02-09 21:16:34+00:00,foundation by asimov,0.0,0.0,Neutral
+2020-02-09 21:12:52+00:00,"mars is to earth, as terminus was to trantor",0.0,0.0,Neutral
+2020-02-09 17:33:26+00:00,"hard to believe that is high efficiency solar power seamlessly integrated into beautiful roof tiles. great work by solarglass engineering, giga ny factory & tesla installation teams!",0.5863333333333334,0.3636666666666667,Positive
+2020-02-09 17:30:56+00:00,order at ,0.0,0.0,Neutral
+2020-02-09 00:36:01+00:00,back in boca,0.0,0.0,Neutral
+2020-02-08 03:24:28+00:00,"my mom wrote a book 
+",0.0,0.0,Neutral
+2020-02-08 03:00:00+00:00,"feeling cute, might delete later",0.5,0.25,Positive
+2020-02-06 21:34:19+00:00,"spacex started with a mariachi band party. great vibes here in boca chica, texas!",0.75,1.0,Positive
+2020-02-06 14:03:25+00:00,late night tweets  sigh,0.6,-0.3,Negative
+2020-02-06 13:36:31+00:00,new emoji! last one comes with free phone hack.,0.4404040404040404,0.19015151515151515,Positive
+2020-02-06 05:56:39+00:00,"what if there was an ai programmed to want to pick as many strawberries as possible, and so it cultivated nothing but strawberries on all of earths land? then it would be strawberry fields forever!",0.75,0.25,Positive
+2020-02-06 04:35:31+00:00,realiti made while u wait,0.0,0.0,Neutral
+2020-02-06 04:35:31+00:00,realiti made while u wait,0.0,0.0,Neutral
+2020-02-06 04:15:22+00:00,"all things in moderation, especially etymology",1.0,0.0,Neutral
+2020-02-06 04:09:06+00:00,essentially all quotes can be ascribed to churchill,0.3,0.0,Neutral
+2020-02-06 04:05:26+00:00,"no matter how many times u get hangry, you always think ur anger is real  plato",0.3333333333333333,1.850371707708594e-17,Positive
+2020-02-06 02:55:15+00:00,guess hes not left-handed,0.0,0.0,Neutral
+2020-02-05 17:00:04+00:00,putting that on my linkedin for sure,0.8888888888888888,0.5,Positive
+2020-02-05 16:59:10+00:00,"8th hottest song on soundcloud!!
+",0.0,0.0,Neutral
+2020-02-05 13:30:52+00:00,small satellite operators can now book their ride to orbit online  ,0.4,-0.25,Negative
+2020-02-05 12:31:22+00:00,please send your resume to buildstarship.com if youre coming to the starship career day in boca chica tomorrow,0.0,0.0,Neutral
+2020-02-04 04:28:18+00:00,"this is mainly for staffing up 4 production shifts for 24/7 operations, but engineers, supervisors & support personnel are certainly needed too. a super hardcore work ethic, talent for building things, common sense & trustworthiness are required, the rest we can train.",0.5178571428571428,0.10357142857142855,Positive
+2020-02-04 04:19:05+00:00,"starship career day at the stargate building (boca chica blvd, tx) this thursday from 3pm to 9pm!",0.0,0.0,Neutral
+2020-02-03 19:13:15+00:00,going max hardcore on design/production starship here in boca. its awesome! feels a bit like a mars simulator.,1.0,1.0,Positive
+2020-02-03 00:34:13+00:00,"nothing medically dangerous, but 5g is getting a bit too greedy with their spectrum land grab",0.9,-0.6,Negative
+2020-02-02 23:07:01+00:00,"our nn is initially in python for rapid iteration, then converted to c++/c/raw metal driver code for speed (important!). also, tons of c++/c engineers needed for vehicle control & entire rest of car. educational background is irrelevant, but all must pass hardcore coding test.",0.575,0.05,Positive
+2020-02-02 16:48:53+00:00,tesla will hold a super fun ai party/hackathon at my house with the tesla ai/autopilot team in about four weeks. invitations going out soon.,0.43333333333333335,0.31666666666666665,Positive
+2020-02-02 14:23:27+00:00,"we are (obviously) also looking for world-class chip designers to join our team, based in both palo alto & austin",0.5,0.0,Neutral
+2020-02-02 14:20:42+00:00,"dojo, our training supercomputer, will be able to process vast amounts of video training data & efficiently run hypersparce arrays with a vast number of parameters, plenty of memory & ultra-high bandwidth between cores. more on this later.",0.625,0.2,Positive
+2020-02-02 14:14:33+00:00,"our custom 144 tops in-vehicle inference computer, where almost every top is useable & optimized for nn, far exceeds anything else in volume production, giving you the hardware you need to run sophisticated nets",0.8333333333333334,0.3666666666666667,Positive
+2020-02-02 14:01:13+00:00,"tesla will soon have over a million connected vehicles worldwide with sensors & compute needed for full self-driving, which is orders of magnitude more than everyone else combined, giving you the best possible dataset to work with",0.5875,0.4625,Positive
+2020-02-02 13:54:54+00:00,"at tesla, using ai to solve self-driving isnt just icing on the cake, it the cake -  
+
+join ai at tesla! it reports directly to me & we meet/email/text almost every day. my actions, not just words, show how critically i view (benign) ai.",0.6000000000000001,0.05,Positive
+2020-02-02 14:01:13+00:00,"tesla will soon have over a million connected vehicles worldwide with sensors & compute needed for full self-driving, which is orders of magnitude more than everyone else combined, giving you the best possible dataset to work with",0.5875,0.4625,Positive
+2020-02-02 13:54:54+00:00,"at tesla, using ai to solve self-driving isnt just icing on the cake, it the cake -  
+
+join ai at tesla! it reports directly to me & we meet/email/text almost every day. my actions, not just words, show how critically i view (benign) ai.",0.6000000000000001,0.05,Positive
+2020-01-31 19:17:58+00:00,dont doubt ur vibe now on spotify,0.0,0.0,Neutral
+2020-01-30 22:35:01+00:00,"with great pleasure, we bring to you 's story part 2!!! 
+
+thank you elon for sharing with us. 
+
+we can't wait to do this again!",0.75,1.0,Positive
+2020-01-31 01:40:13+00:00,vibbbe,0.0,0.0,Neutral
+2020-01-31 01:30:34+00:00,i wrote the lyrics & performed the vocals!!,0.0,0.0,Neutral
+2020-01-31 01:29:08+00:00,be  cause  its  you,0.0,0.0,Neutral
+2020-01-31 01:20:03+00:00,dont doubt ur vibe,0.0,0.0,Neutral
+2020-01-31 00:01:20+00:00, this song is hard,0.5416666666666666,-0.2916666666666667,Negative
+2020-01-30 23:36:54+00:00,hope youre enjoying the simulation,0.6,0.5,Positive
+2020-01-30 21:39:13+00:00,be  cause  its  true,0.65,0.35,Positive
+2020-01-30 19:20:21+00:00,releasing soon on emo g records!,0.0,0.0,Neutral
+2020-01-30 15:41:37+00:00,just wrote a song called dont doubt yer vibe,0.0,0.0,Neutral
+2020-01-29 11:52:54+00:00,"veritical video might be a sin... so consider me a sinner  is
+ there such thing as too zoomed in?  heres a preview of starlink-3 at 5000mm, 4k - 120 fps. more to come  beautiful launch today!!!  ",0.6666666666666666,0.5,Positive
+2020-01-29 14:08:09+00:00,a friend just sent me this excerpt from a tesla blog i wrote 14 years ago,0.0,0.0,Neutral
+2020-01-29 09:51:47+00:00,ms. tree caught a fairing half  our third successful catch!,0.37222222222222223,0.2569444444444445,Positive
+2020-01-29 14:08:09+00:00,a friend just sent me this excerpt from a tesla blog i wrote 14 years ago,0.0,0.0,Neutral
+2020-01-29 09:51:47+00:00,ms. tree caught a fairing half  our third successful catch!,0.37222222222222223,0.2569444444444445,Positive
+2020-01-29 09:16:00+00:00,falcon 9s first stage has landed on the of course i still love you droneship  our 49th successful landing of an orbital class booster,0.6277777777777778,0.5,Positive
+2020-01-29 09:07:33+00:00,liftoff!,0.0,0.0,Neutral
+2020-01-28 22:51:38+00:00,liquid nitrogen cryogenic strength test underway ,0.0,0.0,Neutral
+2020-01-28 14:34:43+00:00,chairs are underappreciated,0.0,0.0,Neutral
+2020-01-28 00:30:00+00:00,the stars in starships mirrored hull reflected,0.0,0.0,Neutral
+2020-01-27 19:00:01+00:00,"who says dragons arent real? 
+
+capture the excitement of a rocket launch and apply to tour  and witness the next  dragon capsule blast off to the  on march 2. hurry! applications close feb. 2 at 11:59pm et: ",0.15000000000000002,0.1,Positive
+2020-01-27 18:30:09+00:00,starship 9m test tank made 7.5 bar at room temp! small leak at a weld doubler. will be repaired & retested at cryo.,0.4,-0.25,Negative
+2020-01-27 09:19:30+00:00,"standing down today due to strong upper level winds. next launch opportunity is tomorrow at 9:28 a.m. est, or 14:28 utc.",0.27944444444444444,0.030555555555555548,Positive
+2020-01-26 16:01:12+00:00,"weather is 50% favorable for tomorrows launch of 60 starlink satellites at 9:49 a.m. est, 14:49 utc. webcast will go live ~15 minutes before liftoff  ",0.5,0.13636363636363635,Positive
+2020-01-25 16:02:53+00:00,"a tesla works as a boat for short periods of time, as an electric car has no air intake or exhaust to block & battery/motor/electronics are water-sealed. submarines are just underwater evs. 
+",0.3,0.0,Neutral
+2020-01-25 13:30:28+00:00,meme necromancy,0.0,0.0,Neutral
+2020-01-22 02:15:20+00:00,want to play the witcher game on your tesla? (you can already watch the show on tesla netflix theater),0.4,-0.4,Negative
+2020-01-22 00:45:08+00:00,improved accommodations,0.0,0.0,Neutral
+2020-01-19 10:33:31+00:00,dragons trunk has deployed,0.0,0.0,Neutral
+2020-01-19 10:32:26+00:00,dragon has separated from falcon 9 and its superdraco engines have completed their burn,0.0,0.0,Neutral
+2020-01-19 10:30:39+00:00,liftoff!,0.0,0.0,Neutral
+2020-01-19 13:30:01+00:00,"test complete! today,  completed its in-flight abort test designed to show the crewdragon spacecrafts capability to safely separate from the rocket in the unlikely event of an inflight emergency: ",0.4666666666666666,0.041666666666666664,Positive
+2020-01-19 10:23:36+00:00,"todays  in-flight abort test, which does not have  onboard the spacecraft, is intended to demonstrate crewdragons ability to reliably carry crew to safety in the unlikely event of an emergency on ascent. watch: ",0.5,-0.5,Negative
+2020-01-19 10:27:06+00:00,"dragon high altitude, supersonic abort test is a risky mission, as its pushing the envelope in so many ways",0.52,0.33,Positive
+2020-01-19 10:13:20+00:00,watch live as spacex tests crew dragons in-flight launch escape capabilities,0.5,0.13636363636363635,Positive
+2020-01-19 10:24:32+00:00,5 mins from liftoff,0.0,0.0,Neutral
+2020-01-18 05:01:46+00:00,"standing down from todays in-flight crew dragon launch escape test attempt due to sustained winds and rough seas in the recovery area. now targeting sunday, january 19, with a six-hour test window opening at 8:00 a.m. est, 13:00 utc",0.3546296296296297,-0.12685185185185185,Negative
+2020-01-18 06:16:12+00:00,". and  are standing down from todays crewdragon in-flight abort test due to poor splashdown and recovery weather.
+
+the demonstration is now targeted for sunday, jan. 19. the six-hour launch window will open at 8am et. ",0.4409722222222222,-0.1701388888888889,Negative
+2020-01-17 19:19:08+00:00,latest weather data suggests sustained winds and rough seas in the recovery area during the top of tomorrows four-hour launch escape test window; now targeting toward the end of the window. will continue to monitor weather and update the t-0 accordingly in the morning,0.6,0.3,Positive
+2020-01-17 17:10:12+00:00,best place to view is from the beach. excitement guaranteed!,0.3,1.0,Positive
+2020-01-17 17:09:37+00:00,"dragon spacecraft supersonic abort test coming up either tomorrow or sunday, depending on weather  ",0.0,0.0,Neutral
+2020-01-17 13:05:32+00:00,"live now: hear from mission experts as they talk about 's in-flight abort test. the test will demonstrate crewdragons ability to safely escape the falcon 9 rocket in the unlikely event of an emergency during launch.
+
+watch:  ask ?s using asknasa",0.5,0.04545454545454545,Positive
+2020-01-16 14:44:42+00:00,the boring company releases new images of las vegas project as tunnel nears 50% mark,0.7272727272727273,-0.4318181818181818,Negative
+2020-01-13 12:15:01+00:00,"targeted for sat., jan. 18: the final major test before  fly on the  crewdragon. this  in-flight abort test will demo that the crew system can protect astronauts in the unlikely event of an emergency during launch: ",0.725,0.09062500000000001,Positive
+2020-01-16 04:35:55+00:00,"starship orbital vehicle sn1, liquid oxygen header tank & nosecone",0.0,0.0,Neutral
+2020-01-15 15:05:31+00:00,".'s uncrewed in-flight abort test is targeted for 8am et on jan. 18. this test will show that the crewdragon can protect astronauts even in the unlikely event of an emergency during launch.
+
+currently, weather is 90% go for the demonstration. ",0.45,-0.25,Negative
+2020-01-14 13:23:23+00:00,great song,0.75,0.8,Positive
+2020-01-14 12:59:16+00:00,"t-shirt is bulletproof & makes u buff!
+",0.0,0.0,Neutral
+2020-01-12 03:30:15+00:00,"just. wow. 
+
+photo taken by  outside the  on his first spacewalkforams on 15 november 2019. it shows the japanese kibo module (left) and the station's solar arrays with earth behind  ",0.34722222222222215,-0.00833333333333334,Negative
+2020-01-12 03:16:07+00:00,"[wanted!!!] 
+why not be the first woman to travel to the moon?
+mz
+",0.3333333333333333,0.25,Positive
+2020-01-11 22:24:43+00:00,"and, of course, your car will be able to  in their general direction",0.5625,0.275,Positive
+2020-01-11 22:20:41+00:00,teslas will soon talk to people if you want. this is real.,0.30000000000000004,0.2,Positive
+2020-01-11 18:55:38+00:00,critical test launch before flying astronauts is green for jan 18,0.55,-0.1,Negative
+2020-01-11 10:30:02+00:00,we are trapped in a prison of fonts,0.0,-0.2,Negative
+2020-01-10 04:57:08+00:00, toss a coin to ur witcher ,0.0,0.0,Neutral
+2020-01-10 02:19:46+00:00,phony,0.0,0.0,Neutral
+2020-01-10 01:53:10+00:00,bitcoin is *not* my safe word,0.5,0.5,Positive
+2020-01-09 05:04:44+00:00,i put the art in fart,0.0,0.0,Neutral
+2020-01-08 12:05:30+00:00," tesla china team 
+     such amazing progress!!",0.7,0.46875000000000006,Positive
+2020-01-07 04:37:34+00:00,successful deployment of 60 starlink satellites confirmed!,0.975,0.625,Positive
+2020-01-06 21:29:27+00:00,falcon 9 first stage has landed on the of course i still love you droneship  spacexs 48th successful landing of an orbital class rocket booster,0.6277777777777778,0.5,Positive
+2020-01-01 01:50:06+00:00,congratulations tesla & spacex on great 2019! you rock!! looking forward to epic 2020 ,0.575,0.55,Positive
+2020-01-01 01:33:47+00:00,no one suspected his disguise,0.0,0.0,Neutral
+2019-12-31 11:01:03+00:00,tesla model s gets another 'car of the decade' award: 'nothing else comes close',0.0,0.0,Neutral
+2019-12-30 18:27:10+00:00,rest in peace syd mead. your art will endure.,0.0,0.0,Neutral
+2019-12-30 04:18:31+00:00,barrel on dome,0.0,0.0,Neutral
+2019-12-30 01:17:24+00:00,almost three now. boca team is crushing it! starship has giant dome ,0.95,0.25,Positive
+2019-12-29 22:45:55+00:00,simulation of first crewed flight of falcon 9 / dragon 2020 ,0.3333333333333333,0.25,Positive
+2019-12-29 22:25:48+00:00,"8 years later, the simulation is mostly real",0.15000000000000002,0.1,Positive
+2019-12-29 17:46:21+00:00,dam now rly want choc chip muffin,0.0,0.0,Neutral
+2019-12-27 23:13:38+00:00,"these would be road tunnels for zero emissions vehicles only  no toxic fumes is the key. really, just an underground road, but limited to evs (from all auto companies). this is not in place of other solutions, eg light rail, but supplemental to them.",0.5696428571428571,0.06726190476190476,Positive
+2019-12-27 23:06:37+00:00,"build super safe, earthquake-proof tunnels under cities to solve traffic",0.5833333333333333,0.41666666666666663,Positive
+2019-12-27 14:50:28+00:00,was up all night with spacex team working on starship tank dome production (most difficult part of primary structure). dawn arrives ,0.6666666666666666,0.13333333333333333,Positive
+2019-12-24 10:02:56+00:00,"happy holidays via ota!
+
+awesome first look at tesla's (2019.40.50) software update in action, by  : text messaging support, voice commands, and more",0.5866666666666667,0.5700000000000001,Positive
+2019-12-24 12:52:26+00:00,"trans-canada supercharger route from vancouver to halifax is now open! 
+over half the locations are v3 for the fastest charging speeds.",0.3333333333333333,-0.08333333333333333,Negative
+2019-12-23 14:59:00+00:00,yesterday the team completed the 10th successful multi-chute test in a row of crew dragons upgraded mark 3 parachute design  one step closer to safely launching and landing  astronauts,0.725,0.625,Positive
+2019-12-23 16:02:18+00:00,stock art,0.0,0.0,Neutral
+2019-12-23 11:02:59+00:00,whoa  the stock is so high lol,0.6199999999999999,0.48000000000000004,Positive
+2019-12-22 14:25:55+00:00,"if tesla & spacex go bankrupt, so will i. as it should be.",0.0,0.0,Neutral
+2019-12-22 14:24:26+00:00,"just looked at my wiki for 1st time in years. its insane! btw, can someone please delete investor. i do basically zero investing.",1.0,-1.0,Negative
+2019-12-22 04:23:18+00:00,pre vfx cut would be $$$$,0.0,0.0,Neutral
+2019-12-21 19:48:07+00:00,the real reason for looper was to travel back in time & stop a terrible calamity  the premiere of cats!,0.43333333333333335,-0.26666666666666666,Negative
+2019-12-21 17:39:52+00:00,great show ,0.75,0.8,Positive
+2019-12-21 16:52:22+00:00,holiday gift ideas,0.0,0.0,Neutral
+2019-12-19 22:28:05+00:00,"tesla holiday software update has fsd sneak preview, stardew valley, lost backgammon & a few other things",0.2375,-0.1625,Negative
+2019-12-19 03:44:18+00:00,you dont hear much about element 43,0.2,0.2,Positive
+2019-12-19 03:20:35+00:00,this mode will show pic of moth & play the smiths,0.0,0.0,Neutral
+2019-12-19 03:05:09+00:00,tesla moth mode (better late than never),0.55,0.1,Positive
+2019-12-18 16:41:16+00:00,"never trust cynics, as they excuse their own bad deeds by telling themselves everyone does it",0.5722222222222223,-0.04999999999999997,Negative
+2019-12-16 19:00:44+00:00,"about 45 minutes after liftoff, ms. tree and ms. chief will attempt to catch the fairing halves",0.0,0.0,Neutral
+2019-12-16 18:57:34+00:00,webcast of falcon 9 launch now live,0.5,0.13636363636363635,Positive
+2019-12-13 04:15:10+00:00,baby yoda ,0.0,0.0,Neutral
+2019-12-12 16:00:15+00:00,"games only render what you look at when you look at it, as the compute load would otherwise be impossibly high. until observed, objects are a probability function, aka quantum mechanics. ",0.77,0.08,Positive
+2019-12-12 14:47:29+00:00,smol  puppy  math,0.0,0.0,Neutral
+2019-12-12 13:35:41+00:00,meant to say is render speed. frame rate is locked.,0.0,0.0,Neutral
+2019-12-12 03:22:30+00:00,way too many paywalls & spawn points,0.5,0.5,Positive
+2019-12-12 02:55:58+00:00,just read the instructions,0.0,0.0,Neutral
+2019-12-12 02:45:41+00:00,"if life is a video game, the graphics are great, but the plot is confusing & the tutorial is way too long",0.48749999999999993,0.012500000000000008,Positive
+2019-12-12 02:32:58+00:00,root of energy to mass ratio is max render speed of the simulation,0.0,0.0,Neutral
+2019-12-12 02:09:36+00:00,math jokes have a small audience,0.4,-0.25,Negative
+2019-12-12 02:05:36+00:00,kids these days have no respect!,0.0,0.0,Neutral
+2019-12-11 12:15:13+00:00,"the edmunds 2020 toprated best ev of the year is the  model 3.
+
+the model 3 is unlike any other vehicle on sale, electric or ice. its features, technology, price and driving dynamics make it an impossible force to ignore. ",0.5583333333333333,0.06944444444444446,Positive
+2019-12-09 13:15:05+00:00,tesla's virtual power plant rescues grid after coal peaker fails despite being only 2% complete,0.5666666666666668,-0.13333333333333333,Negative
+2019-12-08 05:09:28+00:00,"capture confirmed! after 19 flights to the  dragon has now delivered over 95,000 pounds of critical supplies to the orbiting laboratory",0.9,0.25,Positive
+2019-12-07 18:56:40+00:00,huge thanks to everyone who contributed ideas to cybertruck. its better because of you! ,0.5333333333333333,0.4083333333333334,Positive
+2019-12-07 15:55:20+00:00,falcon 9 lands on the of course i still love you droneship after delivering dragon to orbit,0.6,0.5,Positive
+2019-12-05 12:43:03+00:00,"dragons solar arrays have deployed, and its on its way to the international space station. capture by the  crew set for early sunday",0.15,0.05,Positive
+2019-12-05 12:30:40+00:00,liftoff!,0.0,0.0,Neutral
+2019-12-05 12:14:55+00:00,webcast of falcon 9 launch now live,0.5,0.13636363636363635,Positive
+2019-12-05 09:27:51+00:00,"falcon 9 launch of dragon targeted for 12:29 p.m. est, 17:29 utc. winds are looking better ahead of todays attempt  ",0.5,0.5,Positive
+2019-12-05 11:59:11+00:00,t-30 minutes until falcon 9 launch of dragon. weather is over 90% favorable for todays launch attempt  ,0.0,0.0,Neutral
+2019-12-04 12:12:37+00:00,"standing down today due to upper altitude winds and high winds at sea creating dynamic conditions around the of course i still love you droneship  next launch opportunity is tomorrow at 12:29 p.m. est, 17:29 utc",0.2815079365079365,0.05420634920634921,Positive
+2019-12-04 12:32:31+00:00,model x just earned 5 stars from euro ncap in safety testing,0.0,0.0,Neutral
+2019-12-04 07:25:57+00:00,"falcon 9 and dragon are vertical ahead of todays resupply mission to the  launch is targeted for 12:51 p.m. est, 17:51 utc  ",0.0,0.0,Neutral
+2019-12-03 13:00:01+00:00,"the  falcon 9 & dragon are preparing for a dec. 4 launch on a resupply mission to  today, watch nasa tv for a status update & learn about science and cargo on board: 
+1:30pm et: science briefing
+4pm et: prelaunch news conference",0.0,0.0,Neutral
+2019-12-03 21:45:24+00:00,launching third flight of this dragon spacecraft to  tomorrow,0.0,0.0,Neutral
+2019-12-02 18:30:46+00:00,"on november 21, 2019,  unveiled what is largely considered to be the greatest evolution in vehicular fashion & function. 
+
+what is this cybertruck everyones talking about, you may wonder? well, heres a quick introduction!
+as promised  cybertruck spec ad  ",0.6428571428571429,0.5436507936507936,Positive
+2019-12-02 18:18:08+00:00,"people often think theyre breathing oxygen, but are actually breathing nitrogen (78%) with a side serving of oxygen (21%) in argon sauce (1%), spiced up with co2, h2o & a dash of neon & krypton (etc.)",0.1,0.0,Neutral
+2019-12-02 15:45:14+00:00,"hydrogen is a light, odorless gas, which, given enough time, turns into people who will make this statement",0.6,0.2,Positive
+2019-12-01 04:05:11+00:00,its artificial,1.0,-0.6,Negative
+2019-12-01 03:48:16+00:00,do you like our owl?,0.0,0.0,Neutral
+2019-11-30 21:31:01+00:00,"next week, a dragon will race into the sky to deliver tons of cargo and supplies to the 
+
+find out how to watch our live coverage of this  mission, including:
+ a prelaunch update on dec. 3
+ liftoff on dec. 4
+ arrival on dec. 7
+
+",0.25,0.06818181818181818,Positive
+2019-11-27 11:15:35+00:00,"this one is deep.
+happy thanksgiving!",0.7,0.5,Positive
+2019-11-25 17:19:38+00:00,bring it on,0.0,0.0,Neutral
+2019-11-24 18:52:26+00:00,cybertruck pulls f-150 uphill,0.0,0.0,Neutral
+2019-11-24 18:00:07+00:00,"each second, 1.5 million tons of solar material shoot off the sun into space. the magnetosphere shields earth, but the solar wind can get in near the poles and disrupt satellite, radio & gps signals. 3 new missions aim to improve this technology problem: ",0.28484848484848485,0.07878787878787878,Positive
+2019-11-24 17:02:01+00:00,"cybertruck is our last product unveil for a while, but there will be some (mostly) unexpected technology announcements next year",0.35555555555555557,0.03333333333333333,Positive
+2019-11-24 15:51:45+00:00, study the blade!! ,0.0,0.0,Neutral
+2019-11-24 15:33:35+00:00,"even bending it requires a deep score on inside of bend, which is how the prototype was made",0.4,0.0,Neutral
+2019-11-24 15:31:06+00:00,"reason cybertruck is so planar is that you cant stamp ultra-hard 30x steel, because it breaks the stamping press",0.0,0.0,Neutral
+2019-11-24 15:24:48+00:00,excellent review by marques!,1.0,1.0,Positive
+2019-11-23 16:07:01+00:00,with no advertising & no paid endorsement,0.0,0.0,Neutral
+2019-11-23 15:54:54+00:00,"146k cybertruck orders so far, with 42% choosing dual, 41% tri & 17% single motor",0.6071428571428571,0.01428571428571429,Positive
+2019-11-22 23:23:39+00:00,riding in the cybertruck,0.0,0.0,Neutral
+2019-11-22 23:07:57+00:00,franz throws steel ball at cybertruck window right before launch. guess we have some improvements to make before production haha.,0.4178571428571428,0.24285714285714285,Positive
+2019-11-22 22:58:27+00:00, syd mead ,0.0,0.0,Neutral
+2019-11-22 16:13:36+00:00,"better truck than an f-150, faster than a porsche 911. order cybertruck online at",0.5,0.5,Positive
+2019-11-21 23:22:54+00:00,the motortrend team visited  twice during the development of cybertruck. six exclusive stories and five videos at ,0.0,0.0,Neutral
+2019-11-21 23:48:28+00:00,gonna tell my kids this is knight rider. cybertruck,0.0,0.0,Neutral
+2019-11-21 23:39:56+00:00," oh. my. god. the tesla cyber truck 
+credit ",0.0,0.0,Neutral
+2019-11-21 21:06:51+00:00,"cybertruck unveil livestream starts at 8pm 
+",0.0,0.0,Neutral
+2019-11-21 17:12:28+00:00,cybertruck design influenced partly by the spy who loved me,0.8,0.7,Positive
+2019-11-21 16:26:45+00:00,tesla cybertruck (pressurized edition) will be official truck of mars,0.0,0.0,Neutral
+2019-11-21 15:26:39+00:00,"cybertruck unveil starts at 8
+
+stay tuned for livestream",0.0,0.0,Neutral
+2019-11-21 11:08:59+00:00,long journey,0.4,-0.05,Negative
+2019-11-21 11:03:05+00:00,tonight,0.0,0.0,Neutral
+2019-11-19 12:37:52+00:00,"national science foundation, u should add a w to ur name. would get way more clicks. ur welcome.",0.7,0.65,Positive
+2019-11-19 12:09:44+00:00,78% of people want to gentrify mordor,0.0,0.0,Neutral
+2019-11-15 19:52:02+00:00,cybertruck unveil thursday night,0.0,0.0,Neutral
+2019-11-15 14:02:17+00:00,innovation comes in many ways,0.5,0.5,Positive
+2019-11-13 17:33:59+00:00,full duration static fire test of crew dragons launch escape system complete  spacex and nasa teams are now reviewing test data and working toward an in-flight demonstration of crew dragons launch escape capabilities,0.6166666666666667,0.31666666666666665,Positive
+2019-11-13 12:18:42+00:00,"the pale blue dot and beyond... thank you to  and the spacex, tesla, neuralink teams for making the world dream. full conversation: ",0.27666666666666667,0.04666666666666666,Positive
+2019-11-12 13:09:47+00:00,"again we see model 3 satisfaction through the roof. almost 99% of owners say theyd recommend it to friends and family, and thats a huge part of how tesla has grown so quickly. every person i interviewed told me about taking friends for test drives 6/ ",0.7,0.3666666666666667,Positive
+2019-11-12 21:36:20+00:00,congrats to tesla team on model 3 winning best midsize car in germany! ,0.525,0.75,Positive
+2019-11-11 10:01:27+00:00,fairing has deployedsecond time for this particular fairing,0.3333333333333333,0.16666666666666666,Positive
+2019-11-11 09:57:19+00:00,liftoff!,0.0,0.0,Neutral
+2019-11-10 19:31:19+00:00,"team is go for launch of 60 starlink sats tomorrowheaviest payload to date, first re-flight of a fairing, and first falcon 9 to fly a fourth mission. watching 1 sat that may not orbit raise; if not, 100% of its components will quickly burn up in earths atmosphere",0.4133333333333333,0.32666666666666666,Positive
+2019-11-10 19:01:13+00:00,starlink vertical on the pad,0.0,0.0,Neutral
+2019-11-07 22:53:10+00:00,2020 tesla model 3 beats hyundai ioniq to become most efficient ev produced  by ,0.5,0.5,Positive
+2019-11-07 20:53:33+00:00,2020 tesla model 3 beats hyundai ioniq to become most efficient ev produced  by ,0.5,0.5,Positive
+2019-11-07 10:21:00+00:00,"tencent auto editor in chief is the first one in  to test drive china-made model3. as a model 3 owner himself (delivered back in march), he has a lot to say about the good qualities of his test vehicle. it handles well, smooth, quick, and noticeably quiet. he is impressed.",0.4666666666666667,0.38333333333333336,Positive
+2019-11-07 14:42:09+00:00,extremism is so fun! (),0.2,0.375,Positive
+2019-11-07 12:01:23+00:00,tesla receives top scores in moodys carbon transition assessment,0.5,0.5,Positive
+2019-11-06 11:31:02+00:00,the date is strangely familiar ,0.5,0.375,Positive
+2019-11-06 11:15:32+00:00,cybertruck unveil on nov 21 in la near spacex rocket factory,0.4,0.1,Positive
+2019-11-05 13:08:28+00:00,the fairing supporting this mission previously flew on falcon heavys arabsat-6a mission,0.20833333333333331,0.04166666666666667,Positive
+2019-11-05 13:08:05+00:00,static fire test of falcon 9 completetargeting 11/11 for launch of 60 starlink satellites from pad 40 in florida,0.9,0.5,Positive
+2019-11-04 16:59:28+00:00,"great work by spacex dragon team & airborne! to be clear, weve only done 1 multi-parachute test of mk3 design, so 9 more left to reach 10 successful tests in a row.",0.5972222222222222,0.39166666666666666,Positive
+2019-10-31 21:34:49+00:00,"tesla solarglass vs  
+happy halloween!!",1.0,1.0,Positive
+2019-10-29 21:05:30+00:00,"soon, spacex will launch  astronauts to ",0.0,0.0,Neutral
+2019-10-29 20:15:44+00:00,just a reminder that the tesla full self-driving option goes up by $1000 at midnight on nov 1 for all regions that have smart summon. order your car online at ,0.5964285714285715,0.28214285714285714,Positive
+2019-10-29 19:55:09+00:00,"i always like going south; somehow, it feels like going downhill.",0.0,0.0,Neutral
+2019-10-29 19:46:57+00:00,for treebeard,0.0,0.0,Neutral
+2019-10-29 06:09:23+00:00,"as one owner said, quality is measured in different ways. notwithstanding initial flaws, they raved about their cars. a near-unanimous 99.6% of respondents said the model 3 is a pleasure to drive. its hard to find such consensus over anything really  5/",0.3683333333333333,-0.018333333333333333,Negative
+2019-10-28 13:46:09+00:00,"unfortunately, its hard to google tesla solar links due to tons of ads & seo. go to  to add solar to an existing roof &  for a new roof with integrated solar.",0.5928030303030303,-0.1950757575757576,Negative
+2019-10-28 13:10:47+00:00,"we dont make much money on this product, so $1000 actually means a lot",0.15000000000000002,0.1,Positive
+2019-10-28 13:09:19+00:00,"if youre directly affected by wildfire power outages, tesla is reducing solar+powerwall prices by $1000 as of today",0.4,0.1,Positive
+2019-10-28 13:04:13+00:00,"apologies to those waiting for solar/powerwall outside california, as we are prioritizing those affected by wildfires",0.05,0.0,Neutral
+2019-10-28 11:58:37+00:00,"homes with solar sell for 4.1% more, according to zillow. adding a powerwall battery is highly likely to increase home value too imo, as security against blackouts is increasingly important. 
+",0.8333333333333334,0.3,Positive
+2019-10-28 10:53:02+00:00,"us clean energy incentive drops by 4% on jan 1, so orders must be received by roughly nov 15 to be installed in time",0.55,0.13333333333333336,Positive
+2019-10-28 10:49:23+00:00,tesla solar plus powerwall battery backup for 24/7 clean energy & no blackouts at ,0.7000000000000001,0.3666666666666667,Positive
+2019-10-27 17:24:16+00:00,took my son to play piano for the seniors home in pasadena. it was lovely to see them smile ,0.425,0.4,Positive
+2019-10-27 11:15:51+00:00,"this day nine years ago tesla opened its factory in fremont. tesla started production with 1,000 workers. today, more than 10,000 employees work at the fremont factory. here is  inaugurating the factory  such a crazy ride! fremontbirthday",0.6333333333333333,-0.08333333333333333,Negative
+2019-10-26 17:14:15+00:00,sandwich time travel is the only explanation,1.0,0.0,Neutral
+2019-10-26 15:33:31+00:00,physics facts,0.0,0.0,Neutral
+2019-10-25 16:23:39+00:00,tesla solarglass roof,0.0,0.0,Neutral
+2019-10-25 15:10:44+00:00,srsly,0.0,0.0,Neutral
+2019-10-25 14:34:11+00:00,"maybe call tesla solar roof tiles product solarglass? like dragonglass, but solar!",0.0,0.0,Neutral
+2019-10-25 13:31:12+00:00,submit questions for our solar roof q&a ahead of our 2pm launch:,0.0,0.0,Neutral
+2019-10-25 13:31:12+00:00,submit questions for our solar roof q&a ahead of our 2pm launch:,0.0,0.0,Neutral
+2019-10-24 17:00:47+00:00,test of crew dragons upgraded launch escape system ahead of static fire and in-flight abort tests  altogether we are conducting hundreds of tests to verify the system's advanced capabilities to carry astronauts to safety in the unlikely event of an emergency,0.6666666666666666,0.13333333333333333,Positive
+2019-10-24 17:32:44+00:00,"to be clear, integrated solar tiles only make financial sense for new houses or replacement roofs. if your roof is more than 5 years away from replacement, solar retrofit is recommended ",0.4675757575757576,0.14727272727272728,Positive
+2019-10-24 17:28:17+00:00,california time,0.0,0.0,Neutral
+2019-10-24 17:04:27+00:00,will do an open call q&a,0.5,0.0,Neutral
+2019-10-24 16:57:20+00:00,tesla solar tile roof v3 launch tomorrow at 2pm,0.0,0.0,Neutral
+2019-10-23 21:21:11+00:00,but actually ,0.1,0.0,Neutral
+2019-10-23 16:13:35+00:00,super proud of tesla team for great execution & support of tesla customers greatly appreciated!!,0.6291666666666667,0.5614583333333334,Positive
+2019-10-23 16:09:18+00:00,"tesla q3 results:
+
+- shanghai giga ahead of schedule
+- model y ahead of schedule
+- solar installs +48% from q2
+- gaap profitable
+- positive free cash flow",0.6727272727272727,0.31363636363636366,Positive
+2019-10-22 04:56:05+00:00,the crispr genome-editing technique that's revolutionising biology just got a major upgrade ,0.5,0.0625,Positive
