@@ -115,11 +115,12 @@ Hourly Price vs Polarity count(dropped high subjectivity- market hours only)
 There was a relatively strong correlation between hourly price change and the number of comments (corr=0.30) for mass tweets on the tesla price. 
 ---
 ## *Reddit Analysis*
+
 ![reddit anaylsis](Images/Reddit_Heat_Map.PNG)
 
-![reddit heat map](Images/heatmap_Reddit_dropHighSubjectivity_market_hours.PNG)
+![reddit heat map](Images/heatmap_Reddit_dropHighSubjectivity_market_hours.png)
 
-![reddit plot](Images/plot_Reddit_dropHighSubjectivity_market_hours_only_price_vs_count.PNG)
+![reddit plot](Images/plot_Reddit_dropHighSubjectivity_market_hours_only_price_vs_count.png)
 
 Filtered Reddit data by wallstreetbets subreddit
 Added the hourly Tesla stock price infor for the last two years to the dataframe.
@@ -150,13 +151,13 @@ Conclusion is the model was only accurate 52% of the time.
 ## *Word Cloud Visualizations*
 
 Tesla Price Tweets
-![wordcloud](Images/tesla_price_tweets_wordcloud.png)
+![wordcloud](Images/tesla_price_tweets_wordcloud.PNG)
 Tesla Reuters Headlines
-![wordcloud](Images/tesla_reuters_headline_wordcloud.png)
+![wordcloud](Images/tesla_reuters_headline_wordcloud.PNG)
 Tesla Reuters Text
-![wordcloud](Images/tesla_reuters_text_wordcloud.png)
+![wordcloud](Images/tesla_reuters_text_wordcloud.PNG)
 Tesla Yahoo Finance
-![wordcloud](Images/yahoo_finance_wordcloud.png)
+![wordcloud](Images/yahoo_finance_wordcloud.PNG)
 
 ---
 
