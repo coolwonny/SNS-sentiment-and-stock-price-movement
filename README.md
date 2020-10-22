@@ -134,52 +134,130 @@ Tesla Trade History: Hourly (2 years)
 ### [News API articles](https://github.com/coolwonny/project-3/blob/main/Resources/tsla_newsapi.csv)
  - Limits on free version: up to current 30 days 
 ---
+## ANALYSIS METHOD - Finding Out Correlations
+
+### Things to be considered
+- What sentiment score should we use?    
+  (Subjectivity or Polarity, or both combined)    
+- Which score value should we use to represent the same hourly(or daily) window, in case of having multiple scores?    
+  (mean, count, add, take the first one or the last one, etc)   
+- How to deal with texts generated off market hours including weekends?   
+   
+### Applied methods
+1. Decide which TSLA stock price we use.
+   ( Daily / Hourly / 15 minutes )
+
+2. Prepare for various Sentiment Score   
+   - Subjectivity and Polarity scores from TextBlob 
+   - Going straight with Polarity score only 
+   - Or tweaking and combining with Subjectivity score by filtering or weighting 
+    a. Simply taking more objective texts only    
+        -  (i.e. dropping out texts w/ Subjectivity > 0.4) 
+    b. Creating adj. Polarity score by weighting on subjectivity   
+        -  If  0 <= Subjectivity score <= 0.2  ⇒ 140% * Polarity score    
+            0.2< Subjectivity score <= 0.4  ⇒ 120% * Polarity score   
+            Likewise,  0.4 < subjectivity score <= 0.6 ⇒ 100%   
+               0.6 < subjectivity score <= 0.8, ⇒ 80%   
+               0.8 < subjectivity score <= 1.0, ⇒ 60% 
+    
+    - Grouping scores by daily/hourly/15 mins by taking mean, sum, count, first and last
+ 
+3.  Compare the analysis by market hours
+    - Analyze all texts regardless of on and off market hours or
+    - Analyze only texts posted within market hours 
+
+### *Sample results*
+- Subplots overviewing the results of all scenarios
+![sample_overview](Images/plot_tweets_TSLA_price_dropHightSubjectivity_market_hours_only.png)   
+- Sentiment Scatter Plot
+![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)
+- Polarity Distribution over time
+![polarity distribution](Images/polarity_distribution_elonmusk_tweets.png)
+- Price, Sentiment Score overlay
+![overlay plot](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)
+- Correlation Heatmap
+![heatmap](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
+
+---
 
 ## *Twitter Analysis*
 
-1. Decide which TSLA Price we use Daily / Hourly / 15 minutes
+### Elon Musk Tweets / Retweets
+- Strongest correlation from observation:  Hourly Price Return and Polarity Mean Change(%) (corr = 0.3058)
+- Scenario: Dropped high subjectivity (<=0.4), market hours only
+![ElonMusk Heatmap](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only.png)
+![ElonMusk Overlay](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)
 
-2. Preparing for various Sentiment Score Subjectivity and Polarity scores from TextBlob Going straight with Polarity score only Or tweaking and combining with Subjectivity score by filtering or weighting Simply taking more objective texts only (i.e. dropping out texts w/ Subjectivity > 0.4) Creating adj. Polarity score by weighting on subjectivity If  0 <= Subjectivity score <= 0.2  ⇒ 140% * Polarity score 0.2< Subjectivity score <= 0.4  ⇒ 120% * Polarity score and so on. Grouping scores by daily/hourly/15 mins by taking mean, sum, count, first and last
- 
-3.  Comparing the analysis by market hours
-Analyze all texts regardless of on and off market hours or
-Analyze only texts posted within market hours 
 
-Tesla Tweets Market Hours Only
-![mass tweets on tesla price, hourly, 6 months](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
 
-Tweets on tesla price:dropped hight subjectivity, market hours only
-![analysis method cont](Images/plot_tweets_TSLA_price_dropHightSubjectivity_all_hours.png)
+### Tesla Company Tweets / Retweets
+- Strongest correlation:  Daily Price Return and Polarity Sum Change (corr = 0.1712)
+- Scenario: Dropped high subjectivity (<=0.4), market days only
+![TSLA Company Heatmap](Images/heatmap_tweets_Tesla_company_dropHighSubjectivity_market_hours.png)
+![TSLA Company Overlay](Images/plot_Tesla_Company_dropHighSubjectivity_market_hours.png)
 
-Tweets on TSLA Price: dropped high subjectvity, market hours only left to right top to bottom:hour price, hourly price change, polarity count score, polarity count change
-![anaylsis method cont](Images/plot2_tweets_TSLA_price_dropHightSubjectivity_market_hours_only.png)
+- We couldn't find any meaningful signals from the Company tweets mainly because of the scarcity of data even in the daily scale.
 
-Hourly return vs Polarity Mean Change(dropped high subjectivity)
-![analysis method cont](plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png
-)
-Hourly Price vs Polarity count(dropped high subjectivity- market hours only)
-![mass tweets on tesla price, hourly, 6 months](Images/plot_TeslaPrice_dropHighSubjectivity_market_hours_only_price_vs_count.png)
+### Mass Tweets on Tesla Price
+- Strongest correlation:  Hourly Price and Polarity Count (corr = 0.2956)
+- Scenario: Dropped high subjectivity (<=0.4), market hours only
+![TSLA price Heatmap](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
+![TSLA price Overlay](Images/plot_TeslaPrice_dropHighSubjectivity_market_hours_only_price_vs_count.png)
 
-There was a relatively strong correlation between hourly price change and the number of comments (corr=0.30) for mass tweets on the tesla price. 
+- Unlike the Elon Musk Tweets, mass tweets mostly correlated with the polarity count (or the number of texts). 
+
 ---
 ## *Reddit Analysis*
 
+Since there were over 2.6 million Reddit texts, we filtered the data down by taking the "*wallstreetbets*" subreddit. Also, we further narrowed them down to two years as we had only 730 trading days of hourly price data available.
+
+371K rows of data left after the filtering. We didn't observe any correlation between Polarity, Subjectivity, and hourly returns found in the filtered data frame. 
+
 ![reddit anaylsis](Images/Reddit_Heat_Map.PNG)
+
+
+
+When we applied the analysis method, however, we found out the followings:
+
+- Strongest correlation:  Hourly Price and Polarity Count (corr = 0.6654) followed by Hourly Price and Polarity Sum (corr = 0.3534)
+-Scenario: Dropped high subjectivity(<=0.4), market hours only
+
 
 ![reddit heat map](Images/heatmap_Reddit_dropHighSubjectivity_market_hours.png)
 
 ![reddit plot](Images/plot_Reddit_dropHighSubjectivity_market_hours_only_price_vs_count.png)
 
-Filtered Reddit data by wallstreetbets subreddit
-Added the hourly Tesla stock price infor for the last two years to the dataframe.
-Dropped null values and additional columns not needed. 
-161,643 rows of data (test and stock movement)
+As a result, we found out the strongest correlation above all here in the Reddit data at 0.66 which is way above the others by more than twice. This is in line with the finding from the Mass Tweets that the number of texts in the given period of time does count on the stock price in the same window.
 
-*Findings:*
+---
+## *Intensive Analysis*
 
-Some correlation between polarity counts (or number of posts) and stock Price (.66). 
+From all of the scenarios we had experimented, interestingly we detected stongest correlations under one scenario - Subjectivity(<=0.4) & market hours(or days) only. 
 
-Comparing this to the Elon Musk tweets, we found that the number of texts counts on TSLA’s hourly price had the strongest correlation. 
+In addition, the strongest correlation was found on between the number of Mass Reddit texts and the hourly price movements. 
+
+Given these results, we were motivated to take deeper analysis on:   
+
+1) whether subjectivity really matters in relation to making sentiments more related to stock price;
+
+2) whether the number of texts actually lead the price or the other way around;
+
+### 1. Whether Subjectivity really matters
+
+For Elon Musk Tweets, We have adjusted the subjectivity bar from 0.3 to 0.5 to see if there was any meaningful changes.    
+
+When we increased the subjectivity bar to 0.3 from 0.4, the result became more interesting. Now the strongest correlation is still lying on between the same elements(hourly return and polarity mean), correlation got improved to 0.3606 from 0.3058.   
+![subjectivity 0.3 heatmap](Images/heatmap_intensive_elonmusk_tweets.png)
+![overlay plot](Images/intensive_sub_0.3_elonmusk.png)
+
+ By looking at the overlay plot, this could be attributed to either the number of data matters (when limited it 0.3) or people tends to be more responding to Elon Musk tweets specifically with more objective tones. 
+
+ In comparison for Reddit data, when the subjectivity bar was modified from the range of 0.3 to 0.5, it didn’t outscored the correlation at 0.4.  
+
+### 2. Whether the sentiment(number of texts) actually leads the price   
+
+
+
 
 ---
 
