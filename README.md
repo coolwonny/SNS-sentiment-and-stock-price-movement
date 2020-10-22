@@ -318,13 +318,16 @@ Conclusion is the model was only accurate 52% of the time.
 ## *Word Cloud Visualizations*
 
 Tesla Price Tweets
-![wordcloud](Images/tesla_price_tweets_wordcloud.PNG)
+![wordcloud1](Images/tesla_price_tweets_wordcloud.png)  
+
 Tesla Reuters Headlines
-![wordcloud](Images/tesla_reuters_headline_wordcloud.PNG)
+![wordcloud2](Images/tesla_reuters_headline_wordcloud.png)   
+
 Tesla Reuters Text
-![wordcloud](Images/tesla_reuters_text_wordcloud.PNG)
+![wordcloud3](Images/tesla_reuters_text_wordcloud.png)   
+
 Tesla Yahoo Finance
-![wordcloud](Images/yahoo_finance_wordcloud.PNG)
+![wordcloud4](Images/yahoo_finance_wordcloud.png)
 
 ---
 ## Conclusion
