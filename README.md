@@ -1,6 +1,6 @@
 # Project 3 - NLP Analysis and Stock Data
 ## Alex Waters, Joe Swiderski, Marcus Kim, Mark Foxworth, Zach Cone
-## October 18, 2020
+## October 20, 2020
 
 ---
 
@@ -61,11 +61,32 @@ This sentiment analysis was compared to stock price movements over time, includi
 - Algorithmic trading
 
 ---
-## Twitter History
+## Historical Stock Price
 ![tesla trad history: hourly, 2 years](Images/Hourly_Stock_History.PNG)
 Tesla Trade History: Hourly (2 years)
 
+---   
+## *Twitter Data*
+     
+### [Elon Musk Tweets / Retweets](https://github.com/coolwonny/project-3/blob/main/Resources/Elon_Musk_tweets_cst_final.csv)
+- https://twitter.com/elonmusk
+- 01/01/2018 to 10/12/2020
+- More SpaceX topics recently
+
+### [Tesla Company Tweets](https://github.com/coolwonny/project-3/blob/main/Resources/tesla_tweets.csv)
+- https://twitter.com/tesla 
+- 11/16/2016 to 09/23/2020
+- Less tweets in 2020
+
+### [Mass Tweets on Tesla Price](https://github.com/coolwonny/project-3/blob/main/Resources/concat_query_tesla_price_final.csv)
+- https://twitter.com/search?q=tesla%20price%20lang%3Aen%20until%3A2020-10-13%20since%3A2020-04-30&src=typed_query&f=live
+- 05/01/2020 to 10/13/2020
+- Search by 'Tesla Price'
+- Limitation on page scrolls per hour by Twitter    
+  (Optimized scroll rate without errors = 925 pixels every 5 seconds of timesleep)
+
 ---
+
 
 ## *Reddit Data*
 
@@ -86,7 +107,34 @@ Tesla Trade History: Hourly (2 years)
 ### PRAW
 - Library
 - inflexible
+---   
+## *Yahoo Finance Data*    
+
+### Tesla Stock Price (yfinance python)
+ - Adjusted price after stock-split
+ - Intervals available by [daily](https://github.com/coolwonny/project-3/blob/main/Resources/Daily_Stock_Data_4_Yrs.csv), [hourly](https://github.com/coolwonny/project-3/blob/main/Resources/Hourly_Data_by_year.csv) and minutes(5 min / [15 min](https://github.com/coolwonny/project-3/blob/main/Resources/fifteen_min_for_sixty_day.csv) / 30 min)
+ - Limitations: hourly price up to 730 trading days, minutes price up to 60 trading days
+
+### [Yahoo Finance Conversations](https://github.com/coolwonny/project-3/blob/main/Resources/Yahoo_conversations_cst.csv)
+- https://finance.yahoo.com/quote/TSLA/community?p=TSLA
+- 09/23/2020 to 10/09/2020
+- Filtered by 'Recently Discussed'
+- Dynamic pages ("Show More" button)  
+- Timestamp not provided. Only with 'XX minutes/hours/days/months ago'
+
 ---
+## *Reuters / News API Data*    
+
+### [Reuters headlines and articles](https://github.com/coolwonny/project-3/blob/main/Resources/Tesla_reuter_full.csv)
+ - https://www.reuters.com/companies/TSLA.OQ/news
+ - The most recent four years
+ - Returns headlines and bodies separately
+ - Timestamp not provided. Only with 'XX hours/days/months/years ago'
+
+### [News API articles](https://github.com/coolwonny/project-3/blob/main/Resources/tsla_newsapi.csv)
+ - Limits on free version: up to current 30 days 
+---
+
 ## *Twitter Analysis*
 
 1. Decide which TSLA Price we use Daily / Hourly / 15 minutes
@@ -151,13 +199,13 @@ Conclusion is the model was only accurate 52% of the time.
 ## *Word Cloud Visualizations*
 
 Tesla Price Tweets
-![wordcloud](Images/tesla_price_tweets_wordcloud.png)
+![wordcloud](Images/tesla_price_tweets_wordcloud.PNG)
 Tesla Reuters Headlines
-![wordcloud](Images/tesla_reuters_headline_wordcloud.png)
+![wordcloud](Images/tesla_reuters_headline_wordcloud.PNG)
 Tesla Reuters Text
-![wordcloud](Images/tesla_reuters_text_wordcloud.png)
+![wordcloud](Images/tesla_reuters_text_wordcloud.PNG)
 Tesla Yahoo Finance
-![wordcloud](Images/yahoo_finance_wordcloud.png)
+![wordcloud](Images/yahoo_finance_wordcloud.PNG)
 
 ---
 
