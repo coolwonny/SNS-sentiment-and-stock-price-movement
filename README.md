@@ -256,6 +256,21 @@ When we increased the subjectivity bar to 0.3 from 0.4, the result became more i
 
 ### 2. Whether the sentiment(number of texts) actually leads the price   
 
+For this, we have applied `dt.ceil(freq ='15T')` to Reddit data, meaning rounded up every text date to the nearest ceiling value. For instance, if a text date is "00:05:39 (hh:mm:ss)" then it is rounded up to "00:15:00". if a text date is "00:16:02", then it becomes "00:30:00".    
+
+Under this setting,  we might be able to assume the counts comes first, once we found the price and the counts are moving simultaneously.   
+
+Next, We tried to figure out which drives the other, stock price or reddit texts. For doing this, we segregated the data into 15 minutes interval.
+![reddit 15mins](Images/intensive_reddit_15mins.png)
+
+For example, if we go through what happened on 2020-08-20 where the price started rising from 9:45 am ($377.97 -> $385.95), the counts are also rising at the same time (22 -> 32). It is still hard to tell which one went first, but considering the counts in the previous, the real leap in counts was made at 10:00 (32 -> 66) when the price was already running high($394.56). 
+![table 1](Images/intensive_reddit_15mins_table.png)
+
+Although the daily high period for both is exactly the same at 14:00 ($402.88 and 202 counts), we could observe a period where the price was increasing while the counts decreased during 13:00 to 13:30.
+![table 2](Images/intensive_reddit_15mins_table_2.png)
+
+Another approach is looking at the changes in correlations. When aggregated by hour, they had a strong correlation at 0.66 as we observed previously. When segregated by 15 minutes, the correlation(Price vs. Counts) was plunged to 0.27, resulting in being stepped down from the strongest corelation by the correlation between '15 minutes price return vs. Polarity Mean Changes'(corr=0.3401). We consider this could be one of the supporting evidences that price movement comes slightly first before the texts. If that was not true, the correlation wouldn't have decreased so much.
+
 
 
 
@@ -286,7 +301,26 @@ Tesla Yahoo Finance
 ![wordcloud](Images/yahoo_finance_wordcloud.PNG)
 
 ---
+## Conclusion
 
+Based on our research and analysis, we conclude as followings:
+
+- TextBlob can be a good tool in terms of having subjectivity scores, comparing to Vader which only gives polarity-oriented ones.
+
+- Less subjective texts tend to give more distinguishable results than those are not.
+
+- Likewise, texts generated within market hours are more distinguishable in figuring out correlations than those are not.
+
+- Positive Elon Musk(CEO) tweets in more objective tones have some impact on price (return). We may interpret it that **stock investors are more responsive to his positive tweets based on factual information than those with subjective sentiments**. 
+
+- Mass texts from Twitter or Reddit showed a meaningful relationship between stock price and the number of texts. The more texts, the more price movement observed.
+
+- We couldn't find any meaningful correlation out of Tesla Company Tweets in terms of stock price. The small number of data might have made it difficult to observe (Tesla company does not tweet often, especially for the last six months).
+
+- We might be able to use the sentiment analysis as one of indicators in building an algorithmic trading.
+
+
+---
 ## **WRAP UP AND OUTSTANDING QUESTIONS**
 
 1. Review and testing of the “aftermarket” text data may provide additional lead indicators for next days opening.  
