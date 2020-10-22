@@ -167,23 +167,34 @@ Tesla Trade History: Hourly (2 years)
     - Analyze only texts posted within market hours 
 
 ### *Sample results*
-- Subplots overviewing the results of all scenarios
-![sample_overview](Images/plot_tweets_TSLA_price_dropHightSubjectivity_market_hours_only.png)   
-- Sentiment Scatter Plot
-![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)
-- Polarity Distribution over time
-![polarity distribution](Images/polarity_distribution_elonmusk_tweets.png)
-- Price, Sentiment Score overlay
-![overlay plot](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)
-- Correlation Heatmap
+- ***Subplots overviewing the results of all scenarios***   
+
+![sample_overview](Images/plot_tweets_TSLA_price_dropHightSubjectivity_market_hours_only.png)      
+
+
+- ***Sentiment Scatter Plot***     
+
+![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)    
+
+- ***Polarity Distribution over time***   
+
+![polarity distribution](Images/polarity_distribution_elonmusk_tweets.png)   
+
+- ***Price, Sentiment Score overlay***   
+
+![overlay plot](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)   
+
+- ***Correlation Heatmap***   
+
 ![heatmap](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
+   
 
 ---
 
 ## *Twitter Analysis*
 
 ### Elon Musk Tweets / Retweets
-- Strongest correlation from observation:  Hourly Price Return and Polarity Mean Change(%) (corr = 0.3058)
+- Strongest correlation from observation:  **Hourly Price Return and Polarity Mean Change(%) (corr = 0.3058)**
 - Scenario: Dropped high subjectivity (<=0.4), market hours only
 ![ElonMusk Heatmap](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only.png)
 ![ElonMusk Overlay](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)
@@ -191,7 +202,7 @@ Tesla Trade History: Hourly (2 years)
 
 
 ### Tesla Company Tweets / Retweets
-- Strongest correlation:  Daily Price Return and Polarity Sum Change (corr = 0.1712)
+- Strongest correlation:  **Daily Price Return and Polarity Sum Change (corr = 0.1712)**
 - Scenario: Dropped high subjectivity (<=0.4), market days only
 ![TSLA Company Heatmap](Images/heatmap_tweets_Tesla_company_dropHighSubjectivity_market_hours.png)
 ![TSLA Company Overlay](Images/plot_Tesla_Company_dropHighSubjectivity_market_hours.png)
@@ -199,7 +210,7 @@ Tesla Trade History: Hourly (2 years)
 - We couldn't find any meaningful signals from the Company tweets mainly because of the scarcity of data even in the daily scale.
 
 ### Mass Tweets on Tesla Price
-- Strongest correlation:  Hourly Price and Polarity Count (corr = 0.2956)
+- Strongest correlation:  **Hourly Price and Polarity Count (corr = 0.2956)**
 - Scenario: Dropped high subjectivity (<=0.4), market hours only
 ![TSLA price Heatmap](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
 ![TSLA price Overlay](Images/plot_TeslaPrice_dropHighSubjectivity_market_hours_only_price_vs_count.png)
@@ -219,8 +230,8 @@ Since there were over 2.6 million Reddit texts, we filtered the data down by tak
 
 When we applied the analysis method, however, we found out the followings:
 
-- Strongest correlation:  Hourly Price and Polarity Count (corr = 0.6654) followed by Hourly Price and Polarity Sum (corr = 0.3534)
--Scenario: Dropped high subjectivity(<=0.4), market hours only
+- Strongest correlation:  Hourly Price and Polarity Count (corr = 0.6654) followed by Hourly Price and Polarity Sum (corr = 0.3534)   
+- Scenario: Dropped high subjectivity(<=0.4), market hours only
 
 
 ![reddit heat map](Images/heatmap_Reddit_dropHighSubjectivity_market_hours.png)
@@ -232,7 +243,7 @@ As a result, we found out the strongest correlation above all here in the Reddit
 ---
 ## *Intensive Analysis*
 
-From all of the scenarios we had experimented, interestingly we detected stongest correlations under one scenario - Subjectivity(<=0.4) & market hours(or days) only. 
+From all of the scenarios we had experimented, interestingly we detected stongest correlations under one scenario - ***Subjectivity(<=0.4) & market hours(or days) only***. 
 
 In addition, the strongest correlation was found on between the number of Mass Reddit texts and the hourly price movements. 
 
@@ -246,7 +257,9 @@ Given these results, we were motivated to take deeper analysis on:
 
 For Elon Musk Tweets, We have adjusted the subjectivity bar from 0.3 to 0.5 to see if there was any meaningful changes.    
 
-When we increased the subjectivity bar to 0.3 from 0.4, the result became more interesting. Now the strongest correlation is still lying on between the same elements(hourly return and polarity mean), correlation got improved to 0.3606 from 0.3058.   
+When we increased the subjectivity bar to 0.3 from 0.4, the result became more interesting. Now the strongest correlation is still lying on between the same elements(hourly return and polarity mean), correlation got improved to 0.3606 from 0.3058.      
+   
+
 ![subjectivity 0.3 heatmap](Images/heatmap_intensive_elonmusk_tweets.png)
 ![overlay plot](Images/intensive_sub_0.3_elonmusk.png)
 
@@ -260,16 +273,29 @@ For this, we have applied `dt.ceil(freq ='15T')` to Reddit data, meaning rounded
 
 Under this setting,  we might be able to assume the counts comes first, once we found the price and the counts are moving simultaneously.   
 
-Next, We tried to figure out which drives the other, stock price or reddit texts. For doing this, we segregated the data into 15 minutes interval.
-![reddit 15mins](Images/intensive_reddit_15mins.png)
+Next, We tried to figure out which drives the other, stock price or reddit texts. For doing this, we segregated the data into 15 minutes interval.   
 
-For example, if we go through what happened on 2020-08-20 where the price started rising from 9:45 am ($377.97 -> $385.95), the counts are also rising at the same time (22 -> 32). It is still hard to tell which one went first, but considering the counts in the previous, the real leap in counts was made at 10:00 (32 -> 66) when the price was already running high($394.56). 
-![table 1](Images/intensive_reddit_15mins_table.png)
+![reddit 15mins](Images/intensive_reddit_15mins.png)   
 
-Although the daily high period for both is exactly the same at 14:00 ($402.88 and 202 counts), we could observe a period where the price was increasing while the counts decreased during 13:00 to 13:30.
-![table 2](Images/intensive_reddit_15mins_table_2.png)
 
-Another approach is looking at the changes in correlations. When aggregated by hour, they had a strong correlation at 0.66 as we observed previously. When segregated by 15 minutes, the correlation(Price vs. Counts) was plunged to 0.27, resulting in being stepped down from the strongest corelation by the correlation between '15 minutes price return vs. Polarity Mean Changes'(corr=0.3401). We consider this could be one of the supporting evidences that price movement comes slightly first before the texts. If that was not true, the correlation wouldn't have decreased so much.
+For example, if we go through what happened on 2020-08-20 where the price started rising from 9:45 am ($377.97 -> $385.95), the counts are also rising at the same time (22 -> 32). It is still hard to tell which one went first, but considering the counts in the previous, the real leap in counts was made at 10:00 (32 -> 66) when the price was already running high($394.56).    
+   
+
+![table 1](Images/intensive_reddit_15mins_table.png)    
+
+
+Although the daily high period for both is exactly the same at 14:00 ($402.88 and 202 counts), we could observe a period where the price was increasing while the counts decreased during 13:00 to 13:30.    
+   
+
+![table 2](Images/intensive_reddit_15mins_table_2.png)   
+
+
+Another approach is looking at the changes in correlations. When aggregated by hour, they had a strong correlation at 0.66 as we observed previously. When segregated by 15 minutes, the correlation(Price vs. Counts) was plunged to 0.27, resulting in being stepped down from the strongest corelation by the correlation between '15 minutes price return vs. Polarity Mean Changes'(corr=0.3401).       
+ 
+![heatmap reddit 15mins](Images/heatmap_intensive_reddit_15mins.png)   
+
+
+We consider this could be one of the supporting evidences that price movement comes slightly first before the texts. If that was not true, the correlation wouldn't have decreased so much.
 
 
 
