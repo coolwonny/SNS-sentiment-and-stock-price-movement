@@ -167,14 +167,25 @@ Tesla Trade History: Hourly (2 years)
     - Analyze only texts posted within market hours 
 
 ### *Sample results*
-- ***Subplots overviewing the results of all scenarios***   
+- ***Subplots overviewing the results of all scenarios***      
+
+  The first row shows the price movements over time on the left and price returns on the right. Down the rows, we have plots for each scenario from mean, sum, count, first and last value representing the polarity score of each of the same time window(daily/hourly/15 minutes) on the left. On the right side, we have plots for percentage changes of each scenario over time. In this way, we might be able to look at the results of all the scenarios as a whole, making it easy to figure out any correlations between one another.
 
 ![sample_overview](Images/plot_tweets_TSLA_price_dropHightSubjectivity_market_hours_only.png)      
 
 
 - ***Sentiment Scatter Plot***     
+    
 
-![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)    
+This plot shows how the overall sentiment(subjectivity and polarity) of a certain text data is distributed. As you can see in the plot, we have the subjectivity on the y-axis which runs from 0 to 1. If a dot is close to 0, it means less subjective(or more objective) while it closed to 1, it means more subjective. At the same time, the polarity ranges from -1 to 1 on the x-axis. Just like the subjectivity, if the polarity close to -1(or left), it has more negative sentiment.    
+For instance, we may interpret the plot below as more postive sentiment overall(skewed to the right). Also we can observe more extreme polarities showing up when the texts get more subjective. We can also see the difference in terms of subjectivity and polarity between personal tweets and news articles in the below. The two plots showing the sentiments of Reuters headlines and articles should be a good example. They tend to more symmetrical (meaning more neutral sentiment or less biased) and more skewed to the bottom (less subjective or more factual based) comparing to the first plot in orange that comes from Elon Musk Tweets.  
+
+![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)     
+    
+
+![Reuter headline](Images/ScatterPlot_reuters_headline.png)   ![Reuters articles](Images/ScatterPlot_reuters_articles.png)
+
+
 
 - ***Polarity Distribution over time***   
 
