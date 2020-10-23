@@ -177,7 +177,8 @@ Tesla Trade History: Hourly (2 years)
 - ***Sentiment Scatter Plot***     
     
 
-This plot shows how the overall sentiment(subjectivity and polarity) of a certain text data is distributed. As you can see in the plot, we have the subjectivity on the y-axis which runs from 0 to 1. If a dot is close to 0, it means less subjective(or more objective) while it closed to 1, it means more subjective. At the same time, the polarity ranges from -1 to 1 on the x-axis. Just like the subjectivity, if the polarity close to -1(or left), it has more negative sentiment.    
+This plot shows how the overall sentiment(subjectivity and polarity) of a certain text data is distributed. As you can see in the plot, we have the subjectivity on the y-axis which runs from 0 to 1. If a dot is close to 0, it means less subjective(or more objective) while it closed to 1, it means more subjective. At the same time, the polarity ranges from -1 to 1 on the x-axis. Just like the subjectivity, if the polarity close to -1(or left), it has more negative sentiment.       
+
 For instance, we may interpret the plot below as more postive sentiment overall(skewed to the right). Also we can observe more extreme polarities showing up when the texts get more subjective. We can also see the difference in terms of subjectivity and polarity between personal tweets and news articles in the below. The two plots showing the sentiments of Reuters headlines and articles should be a good example. They tend to more symmetrical (meaning more neutral sentiment or less biased) and more skewed to the bottom (less subjective or more factual based) comparing to the first plot in orange that comes from Elon Musk Tweets.  
 
 ![Scatter_sentiment](Images/ScatterPlot_ElonMusk.png)     
@@ -187,15 +188,21 @@ For instance, we may interpret the plot below as more postive sentiment overall(
 
 
 
-- ***Polarity Distribution over time***   
+- ***Polarity Distribution over time***     
+
+This scatter plot shows the distribution of text polarity over time, and could be useful if we want to analyze it in time-series.
 
 ![polarity distribution](Images/polarity_distribution_elonmusk_tweets.png)   
 
 - ***Price, Sentiment Score overlay***   
+   
+When we would like to see the correlation in more detail, this overlay plot will give us a clear comparison between the two or more elements. Here in the sample figure, the y-label on the left shows hourly price change(%) in blue, whereas on the right, it labels polarity mean change(%) in green. This plot helps comparing one another in the different scale.
 
 ![overlay plot](Images/plot_ElonMusk_dropHighSubjectivity_market_hours_only_return_vs_mean_change.png)   
 
 - ***Correlation Heatmap***   
+     
+The heatmap is an excellent tool for giving you a complete overview of how the entire correlations are looking like. On the right you may find a bar-like label ranging from -1.00 to 1.00. The more red a certain cell goes(hotter), the stronger correlation it gets. For our analysis, we are going to focus on how red the first two rows will be because we are interested in finding correlations with stock price('Close') and/or stock return('hourly return') versus other polarity variations.   
 
 ![heatmap](Images/heatmap_tweets_TSLA_price_dropHighSubjectivity_market_hours_only.png)
    
